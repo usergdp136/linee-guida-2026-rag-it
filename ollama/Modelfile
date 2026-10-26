@@ -1,0 +1,10 @@
+# linee-guida-2026-rag-it — Modelfile Ollama. NON contiene pesi: rimanda al modello base MedGemma-27B text-it
+# (quantizzazione GGUF Q4_K_M di terzi, scaricata dall'utente da Hugging Face, soggetta ai Termini HAI-DEF:
+#  https://developers.google.com/health-ai-developer-foundations/terms
+#  Prohibited Use Policy: https://developers.google.com/health-ai-developer-foundations/prohibited-use-policy).
+# Uso: ollama pull hf.co/unsloth/medgemma-27b-text-it-GGUF:Q4_K_M && ollama create linee-guida-2026-rag-it -f Modelfile
+FROM hf.co/unsloth/medgemma-27b-text-it-GGUF:Q4_K_M
+PARAMETER temperature 0
+PARAMETER num_ctx 8192
+PARAMETER seed 0
+SYSTEM """Strumento informativo e di ricerca. Non fornisce diagnosi né indicazioni terapeutiche. Rispondi solo in base ai passaggi forniti dalle linee guida citate e, se non pertinenti, dichiaralo."""

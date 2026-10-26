@@ -1,0 +1,29 @@
+{
+ "n": 131,
+ "norag": 0.6489,
+ "always_on": 0.9466,
+ "rag_gated": 0.9084,
+ "gate": [
+  0.6,
+  0.7,
+  1.01
+ ],
+ "dev": {
+  "n": 86,
+  "norag": 0.7442,
+  "always_on": 0.9767,
+  "gate": [
+   0.6,
+   0.7,
+   1.01
+  ],
+  "gated": 0.9767,
+  "retrieval_hit@1": 1.0,
+  "keep": true
+ },
+ "retrieval_hit@1": 0.992,
+ "parse_fail": {
+  "norag": 0,
+  "rag": 0
+ }
+}

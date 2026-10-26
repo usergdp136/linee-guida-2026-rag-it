@@ -1,0 +1,1836 @@
+[
+ {
+  "doc_id": "42196956",
+  "title": "Breastfeeding Recommendations: Torn Between Evidence and Emotions-A Commentary.",
+  "doi": "10.3390/nu18101498",
+  "question": "According to the 2026 German evidence-based guideline on Breastfeeding Duration, what is the recommended total duration of breastfeeding?",
+  "options": {
+   "A": "6 months",
+   "B": "12 months",
+   "C": "4-6 months",
+   "D": "As long as mother and child desire"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 German evidence-based guideline on Breastfeeding Duration, what is the recommended total duration of breastfeeding?\nA. 6 months\nB. 12 months\nC. 4-6 months\nD. As long as mother and child desire\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41966672",
+  "title": "Healthcare professionals consensus on purpose, content and frequency of physical activity for older adults during the non-weight-bearing rehabilitation: an iterative consensus study.",
+  "doi": "10.1007/s41999-026-01463-5",
+  "question": "According to the 2026 Healthcare Professionals Consensus Guidelines on Physical Activity for Older Adults During Non-Weight-Bearing Rehabilitation, what is the recommended approach to designing interventions?",
+  "options": {
+   "A": "Standardized protocols should be applied to all patients to ensure consistency.",
+   "B": "Interventions should be tailored to each patient's individual condition, abilities, and goals.",
+   "C": "Focus should primarily be on high-intensity exercises to maximize muscle gain.",
+   "D": "Physical activity should be limited to passive range-of-motion exercises only."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Healthcare Professionals Consensus Guidelines on Physical Activity for Older Adults During Non-Weight-Bearing Rehabilitation, what is the recommended approach to designing interventions?\nA. Standardized protocols should be applied to all patients to ensure consistency.\nB. Interventions should be tailored to each patient's individual condition, abilities, and goals.\nC. Focus should primarily be on high-intensity exercises to maximize muscle gain.\nD. Physical activity should be limited to passive range-of-motion exercises only.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42513655",
+  "title": "Evolution of Hemophilia Management in Italy: Results from a Delphi Consensus Study.",
+  "doi": "10.3390/jcm15145741",
+  "question": "According to the 2026 Italian Hemophilia Management Delphi Consensus, what percentage agreement or disagreement defines consensus?",
+  "options": {
+   "A": "≥60%",
+   "B": "≥70%",
+   "C": "≥80%",
+   "D": "≥90%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Italian Hemophilia Management Delphi Consensus, what percentage agreement or disagreement defines consensus?\nA. ≥60%\nB. ≥70%\nC. ≥80%\nD. ≥90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42692500",
+  "title": "Developing Quality of Medication Error Reports (QoMER): A Consensus-Based Preliminary Framework Using a Modified Nominal Group Technique in the UK.",
+  "doi": "10.1136/bmjopen-2025-115872",
+  "question": "According to the 2026 UK consensus-based Quality of Medication Error Reports (QoMER) framework, how many key quality indicators (QIs) are included?",
+  "options": {
+   "A": "Three",
+   "B": "Nine",
+   "C": "Eleven",
+   "D": "Eight"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 UK consensus-based Quality of Medication Error Reports (QoMER) framework, how many key quality indicators (QIs) are included?\nA. Three\nB. Nine\nC. Eleven\nD. Eight\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42706524",
+  "title": "\"Then you are left on your own\": barriers to guideline-based speech and language therapy for aphasia along the patient journey in the German-speaking healthcare context.",
+  "doi": "10.1186/s12913-026-15523-w",
+  "question": "According to the 2026 German-speaking healthcare context guidelines on aphasia rehabilitation, which stage of the patient journey was identified as particularly vulnerable regarding the transition to guideline-based speech and language therapy?",
+  "options": {
+   "A": "Initial diagnosis and inpatient treatment",
+   "B": "Transition from inpatient treatment to self-organized outpatient follow-up",
+   "C": "During the initial consultation with the speech and language therapist",
+   "D": "Accessing specialized interdisciplinary services"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 German-speaking healthcare context guidelines on aphasia rehabilitation, which stage of the patient journey was identified as particularly vulnerable regarding the transition to guideline-based speech and language therapy?\nA. Initial diagnosis and inpatient treatment\nB. Transition from inpatient treatment to self-organized outpatient follow-up\nC. During the initial consultation with the speech and language therapist\nD. Accessing specialized interdisciplinary services\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1295279",
+  "title": "Standardized AI Recommendations, Metacognitive Scaffolding, and Performance in Software Tasks: An Exploratory Pilot Study",
+  "doi": "10.31234/osf.io/r2k3y_v1",
+  "question": "According to the 2026 guideline abstract on AI recommendations and software tasks, what was the mean Brier score for the group receiving standardized recommendations paired with a metacognitive scaffold?",
+  "options": {
+   "A": "0.058",
+   "B": "0.033",
+   "C": "0.118",
+   "D": "0.071"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guideline abstract on AI recommendations and software tasks, what was the mean Brier score for the group receiving standardized recommendations paired with a metacognitive scaffold?\nA. 0.058\nB. 0.033\nC. 0.118\nD. 0.071\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42839302",
+  "title": "Driving Implementation-Focused Change for Gender Equity in Medical Leadership: A Consensus-Based Priority-Setting Approach.",
+  "doi": "10.5694/mja2.70314",
+  "question": "According to the 2026 consensus-based priorities for advancing gender equality in medical leadership developed with the Australian Medical Association (AMA), which of the following is identified as a key internal organisational priority?",
+  "options": {
+   "A": "Implementing gender targets and quotas in leadership selection processes.",
+   "B": "Establishing mandatory gender equity education for all members.",
+   "C": "Providing financial incentives for mentoring programs.",
+   "D": "Increasing funding for research on gender pay gaps."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 consensus-based priorities for advancing gender equality in medical leadership developed with the Australian Medical Association (AMA), which of the following is identified as a key internal organisational priority?\nA. Implementing gender targets and quotas in leadership selection processes.\nB. Establishing mandatory gender equity education for all members.\nC. Providing financial incentives for mentoring programs.\nD. Increasing funding for research on gender pay gaps.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41622922",
+  "title": "Consensus-Based Recommendations on Pulp Therapies in Primary and Permanent Teeth: IAPD Porto Forum.",
+  "doi": "10.1111/ipd.70068",
+  "question": "According to the 2026 IAPD Porto Forum consensus recommendations on pulp therapies, what is the preferred material class for vital pulp therapy?",
+  "options": {
+   "A": "Glass ionomer cements",
+   "B": "Calcium silicate cements",
+   "C": "Resin composites",
+   "D": "Zinc oxide eugenol"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 IAPD Porto Forum consensus recommendations on pulp therapies, what is the preferred material class for vital pulp therapy?\nA. Glass ionomer cements\nB. Calcium silicate cements\nC. Resin composites\nD. Zinc oxide eugenol\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42690308",
+  "title": "Diagnosis, clinical assessment, and staging of hepatocellular carcinoma: a Brazilian multidisciplinary consensus.",
+  "doi": "10.1590/0102-672020260000035e1964",
+  "question": "According to the 2026 Brazilian multidisciplinary consensus on Hepatocellular Carcinoma (HCC) diagnosis, clinical assessment, and staging, what is the recommended standardized system for imaging-based diagnosis?",
+  "options": {
+   "A": "AJCC Staging System",
+   "B": "LI-RADS®",
+   "C": "BCLC Staging System",
+   "D": "Child-Pugh Score"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Brazilian multidisciplinary consensus on Hepatocellular Carcinoma (HCC) diagnosis, clinical assessment, and staging, what is the recommended standardized system for imaging-based diagnosis?\nA. AJCC Staging System\nB. LI-RADS®\nC. BCLC Staging System\nD. Child-Pugh Score\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42807484",
+  "title": "Generating meta-inferences for program improvement recommendations: mixed methods integration in joint displays for program evaluation.",
+  "doi": "10.3389/fpsyg.2026.1967445",
+  "question": "According to the 2026 guideline 'Generating meta-inferences for program improvement recommendations: mixed methods integration in joint displays for program evaluation', what is the primary limitation of meta-inferences frequently observed in mixed methods research?",
+  "options": {
+   "A": "Meta-inferences are often limited to determining fit between quantitative and qualitative results.",
+   "B": "Meta-inferences are rarely used to generate program recommendations.",
+   "C": "Meta-inferences are difficult to generate using joint displays.",
+   "D": "Meta-inferences are primarily focused on identifying program implications rather than recommendations."
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guideline 'Generating meta-inferences for program improvement recommendations: mixed methods integration in joint displays for program evaluation', what is the primary limitation of meta-inferences frequently observed in mixed methods research?\nA. Meta-inferences are often limited to determining fit between quantitative and qualitative results.\nB. Meta-inferences are rarely used to generate program recommendations.\nC. Meta-inferences are difficult to generate using joint displays.\nD. Meta-inferences are primarily focused on identifying program implications rather than recommendations.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42284567",
+  "title": "Main Recommendations for Developing Education and Awareness Strategies for Rare Diseases: Scoping Review.",
+  "doi": "10.2196/79027",
+  "question": "According to the 2026 scoping review on recommendations for rare disease education and awareness strategies, what percentage of the included sources focused on professional education and training?",
+  "options": {
+   "A": "49%",
+   "B": "84.4%",
+   "C": "62%",
+   "D": "48.2%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 scoping review on recommendations for rare disease education and awareness strategies, what percentage of the included sources focused on professional education and training?\nA. 49%\nB. 84.4%\nC. 62%\nD. 48.2%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42774145",
+  "title": "Impacts of volumetric vs. anatomical accuracies in GTV segmentation for nasopharyngeal carcinoma: a consensus-guideline-based study.",
+  "doi": "10.3389/fmed.2026.1941973",
+  "question": "According to the 2026 consensus guidelines for nasopharyngeal carcinoma radiotherapy target volume segmentation, what is the median anatomical True Positive Rate (TPR) observed for GTVnx segmentation?",
+  "options": {
+   "A": "63.88%-73.92%",
+   "B": "89.5%-100%",
+   "C": "80%-92%",
+   "D": "47.08%-70.29%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 consensus guidelines for nasopharyngeal carcinoma radiotherapy target volume segmentation, what is the median anatomical True Positive Rate (TPR) observed for GTVnx segmentation?\nA. 63.88%-73.92%\nB. 89.5%-100%\nC. 80%-92%\nD. 47.08%-70.29%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42534850",
+  "title": "Connecting knowledge and action: recommendations to leverage Guatemala's scientific diaspora to address water management challenges.",
+  "doi": "10.3389/frma.2026.1843700",
+  "question": "According to the 2026 Guatemala water management guidelines, what is a primary reason for the country's water crisis despite its substantial freshwater availability?",
+  "options": {
+   "A": "Over-reliance on imported water technology.",
+   "B": "A lack of an overarching water law leading to under-investment and institutional fragmentation.",
+   "C": "Excessive water extraction by the industrial sector.",
+   "D": "A complete absence of scientific expertise within the country."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Guatemala water management guidelines, what is a primary reason for the country's water crisis despite its substantial freshwater availability?\nA. Over-reliance on imported water technology.\nB. A lack of an overarching water law leading to under-investment and institutional fragmentation.\nC. Excessive water extraction by the industrial sector.\nD. A complete absence of scientific expertise within the country.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42172934",
+  "title": "Entrustable Professional Activities for Head and Neck Surgery Residents: A Consensus Model.",
+  "doi": "10.1016/j.jsurg.2026.103983",
+  "question": "According to the 2026 consensus model for Head and Neck Surgery residency training, what is the minimum percentage agreement threshold required for an Entrustable Professional Activity (EPA) to be included?",
+  "options": {
+   "A": "75%",
+   "B": "80%",
+   "C": "85%",
+   "D": "90%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 consensus model for Head and Neck Surgery residency training, what is the minimum percentage agreement threshold required for an Entrustable Professional Activity (EPA) to be included?\nA. 75%\nB. 80%\nC. 85%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42865880",
+  "title": "Recommendations for the development, implementation, and evaluation of technology-assisted physical activity interventions to support healthy aging: insights from PhysAgeNet.",
+  "doi": "10.3389/fdgth.2026.1913687",
+  "question": "According to the 2026 PhysAgeNet recommendations for technology-assisted physical activity interventions in older adults, what is a critical technical requirement emphasized for these technologies?",
+  "options": {
+   "A": "Integration with social media platforms",
+   "B": "High accuracy and reliability",
+   "C": "Gamification features for all users",
+   "D": "Compatibility with all existing operating systems"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 PhysAgeNet recommendations for technology-assisted physical activity interventions in older adults, what is a critical technical requirement emphasized for these technologies?\nA. Integration with social media platforms\nB. High accuracy and reliability\nC. Gamification features for all users\nD. Compatibility with all existing operating systems\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42592013",
+  "title": "Evaluation and Ranking for Scientific, Transparent and Applicable of Chinese Geriatrics Guidelines and Consensus Published in 2023.",
+  "doi": "10.1002/agm2.70100",
+  "question": "According to the 2023 evaluation of Chinese geriatric medicine guidelines and consensus, what was the average STAR score for the 20 expert consensus documents included in the study?",
+  "options": {
+   "A": "26.2 ± 8.9",
+   "B": "35.5 ± 13.1",
+   "C": "29.3 ± 11.2",
+   "D": "55.7"
+  },
+  "answer": "A",
+  "prompt": "According to the 2023 evaluation of Chinese geriatric medicine guidelines and consensus, what was the average STAR score for the 20 expert consensus documents included in the study?\nA. 26.2 ± 8.9\nB. 35.5 ± 13.1\nC. 29.3 ± 11.2\nD. 55.7\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42575545",
+  "title": "Implementation of lifestyle recommendations in the Dutch medical specialists' guidelines: a mixed-methods cross-sectional survey study.",
+  "doi": "10.1136/bmjopen-2026-120063",
+  "question": "According to the 2026 Dutch guidelines on implementing lifestyle recommendations in specialist care, what percentage of medical specialists reported discussing lifestyle topics during consultations?",
+  "options": {
+   "A": "37%",
+   "B": "65%",
+   "C": "72%",
+   "D": "100%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Dutch guidelines on implementing lifestyle recommendations in specialist care, what percentage of medical specialists reported discussing lifestyle topics during consultations?\nA. 37%\nB. 65%\nC. 72%\nD. 100%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41609770",
+  "title": "MRI to guide clinical management of rectal cancer: updated consensus recommendations from the European Society of Gastrointestinal and Abdominal Radiology (ESGAR)-PART I primary staging.",
+  "doi": "10.1007/s00330-025-12274-w",
+  "question": "According to the 2026 ESGAR consensus recommendations for primary staging of rectal cancer using MRI, what is the updated size threshold for considering a lateral lymph node suspicious for malignancy?",
+  "options": {
+   "A": "≥ 5 mm",
+   "B": "≥ 7 mm",
+   "C": "≥ 10 mm",
+   "D": "≥ 12 mm"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 ESGAR consensus recommendations for primary staging of rectal cancer using MRI, what is the updated size threshold for considering a lateral lymph node suspicious for malignancy?\nA. ≥ 5 mm\nB. ≥ 7 mm\nC. ≥ 10 mm\nD. ≥ 12 mm\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42217549",
+  "title": "Automated evidence surveillance with AI-enabled preranking with cutoff in living guideline maintenance: a simulation study.",
+  "doi": "10.1016/j.jclinepi.2026.112349",
+  "question": "According to the 2026 International Polycystic Ovary Syndrome Guidelines maintenance simulation study, what is the recommended approach for evidence retrieval when most of the guideline needs updating?",
+  "options": {
+   "A": "Use topic-specific searches within a single database.",
+   "B": "Use overarching searches within a single database.",
+   "C": "Use overarching searches across multiple databases.",
+   "D": "Use topic-specific searches across multiple databases."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 International Polycystic Ovary Syndrome Guidelines maintenance simulation study, what is the recommended approach for evidence retrieval when most of the guideline needs updating?\nA. Use topic-specific searches within a single database.\nB. Use overarching searches within a single database.\nC. Use overarching searches across multiple databases.\nD. Use topic-specific searches across multiple databases.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42321405",
+  "title": "Young people's perceptions and recommendations for conversational generative artificial intelligence in youth mental health.",
+  "doi": "10.1038/s41746-026-02888-9",
+  "question": "According to the 2026 guidelines on Young people's perceptions and recommendations for conversational generative artificial intelligence in youth mental health, which of the following themes emerged from the co-design workshops with young people?",
+  "options": {
+   "A": "Humanising AI without dehumanising care",
+   "B": "Ensuring data privacy through blockchain technology",
+   "C": "Prioritising gamification features for engagement",
+   "D": "Integrating AI solely for diagnostic purposes"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on Young people's perceptions and recommendations for conversational generative artificial intelligence in youth mental health, which of the following themes emerged from the co-design workshops with young people?\nA. Humanising AI without dehumanising care\nB. Ensuring data privacy through blockchain technology\nC. Prioritising gamification features for engagement\nD. Integrating AI solely for diagnostic purposes\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42313366",
+  "title": "Echocardiography before non-cardiac surgery: current knowledge, guideline recommendations, and clinical evidence - a narrative review.",
+  "doi": "10.1007/s10877-026-01457-5",
+  "question": "According to the 2026 guidelines on echocardiography before non-cardiac surgery, what is the recommendation regarding routine use of transthoracic echocardiography (TTE)?",
+  "options": {
+   "A": "TTE should be performed routinely in all patients undergoing non-cardiac surgery.",
+   "B": "TTE is recommended for symptomatic patients but not routinely for asymptomatic patients.",
+   "C": "TTE is recommended routinely for patients over the age of 60.",
+   "D": "TTE is recommended routinely for patients with a history of cardiovascular disease."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guidelines on echocardiography before non-cardiac surgery, what is the recommendation regarding routine use of transthoracic echocardiography (TTE)?\nA. TTE should be performed routinely in all patients undergoing non-cardiac surgery.\nB. TTE is recommended for symptomatic patients but not routinely for asymptomatic patients.\nC. TTE is recommended routinely for patients over the age of 60.\nD. TTE is recommended routinely for patients with a history of cardiovascular disease.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42431018",
+  "title": "Consensus research priorities in geriatric oncology: A Delphi study.",
+  "doi": "10.1016/j.jgo.2026.103056",
+  "question": "According to the 2026 consensus research priorities in geriatric oncology survivorship, what percentage of experts agreed on the importance of raising healthcare professionals' awareness of potential cancer symptoms in older adults requiring investigation?",
+  "options": {
+   "A": "96%",
+   "B": "80%",
+   "C": "98%",
+   "D": "75%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 consensus research priorities in geriatric oncology survivorship, what percentage of experts agreed on the importance of raising healthcare professionals' awareness of potential cancer symptoms in older adults requiring investigation?\nA. 96%\nB. 80%\nC. 98%\nD. 75%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42647254",
+  "title": "The Spanish Uniform Newborn Screening Panel (SUSP): A National Consensus Framework for Harmonized Newborn Screening.",
+  "doi": "10.3390/ijns12030067",
+  "question": "According to the 2026 Spanish Uniform Newborn Screening Panel (SUSP) guidelines, how many unique clinical conditions are included in the harmonized screening framework?",
+  "options": {
+   "A": "87",
+   "B": "189",
+   "C": "48",
+   "D": "102"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Spanish Uniform Newborn Screening Panel (SUSP) guidelines, how many unique clinical conditions are included in the harmonized screening framework?\nA. 87\nB. 189\nC. 48\nD. 102\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1241117",
+  "title": "Core Components for Emergency Medical Dispatch Systems: An International Delphi Consensus Study",
+  "doi": "10.64898/2026.05.26.26354117",
+  "question": "According to the 2026 International Delphi Consensus Study on Core Components for Emergency Medical Dispatch Systems, what is the minimum percentage of agreement required for a component to be included in the final list?",
+  "options": {
+   "A": "60%",
+   "B": "75%",
+   "C": "80%",
+   "D": "90%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 International Delphi Consensus Study on Core Components for Emergency Medical Dispatch Systems, what is the minimum percentage of agreement required for a component to be included in the final list?\nA. 60%\nB. 75%\nC. 80%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42032438",
+  "title": "Swedish national recommendations for MR safety 2026.",
+  "doi": "10.1186/s13244-026-02270-z",
+  "question": "According to the Swedish national recommendations for MR safety 2026, what is the primary focus of the guidelines?",
+  "options": {
+   "A": "Establishing specific MR safety standards for veterinary use only.",
+   "B": "Providing a comprehensive, life-cycle approach to MR safety covering clinical, research, and veterinary use.",
+   "C": "Focusing solely on equipment safety and maintenance protocols.",
+   "D": "Replacing all existing international MR safety guidelines."
+  },
+  "answer": "B",
+  "prompt": "According to the Swedish national recommendations for MR safety 2026, what is the primary focus of the guidelines?\nA. Establishing specific MR safety standards for veterinary use only.\nB. Providing a comprehensive, life-cycle approach to MR safety covering clinical, research, and veterinary use.\nC. Focusing solely on equipment safety and maintenance protocols.\nD. Replacing all existing international MR safety guidelines.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42701468",
+  "title": "National immunisation recommendations: why country-specific evidence and context matter.",
+  "doi": "10.1016/j.lanepe.2026.101835",
+  "question": "According to the 2026 National Immunisation Recommendations guideline, what key factors, beyond context-free evidence like safety and efficacy, must National Immunisation Technical Advisory Groups (NITAGs) consider when making vaccine recommendations?",
+  "options": {
+   "A": "Local epidemiology, cost-effectiveness, societal values, and programmatic feasibility",
+   "B": "EU-level joint clinical assessments and ECDC recommendations",
+   "C": "Harmonisation of immunisation schedules across countries",
+   "D": "International collaboration and supra-national guidance"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 National Immunisation Recommendations guideline, what key factors, beyond context-free evidence like safety and efficacy, must National Immunisation Technical Advisory Groups (NITAGs) consider when making vaccine recommendations?\nA. Local epidemiology, cost-effectiveness, societal values, and programmatic feasibility\nB. EU-level joint clinical assessments and ECDC recommendations\nC. Harmonisation of immunisation schedules across countries\nD. International collaboration and supra-national guidance\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42289668",
+  "title": "The development of a consensus-based curriculum for a Bespoke Online Neonatal Education for Transfers (BONNETs) course.",
+  "doi": "10.1186/s12909-026-09377-3",
+  "question": "According to the 2026 consensus-based curriculum for Bespoke Online Neonatal Education for Transfers (BONNETs) in South Africa, what percentage of agreement was achieved on foundational skills within the Core course modules?",
+  "options": {
+   "A": "75%",
+   "B": "> 90%",
+   "C": "50%",
+   "D": "100%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 consensus-based curriculum for Bespoke Online Neonatal Education for Transfers (BONNETs) in South Africa, what percentage of agreement was achieved on foundational skills within the Core course modules?\nA. 75%\nB. > 90%\nC. 50%\nD. 100%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42400934",
+  "title": "General practitioners' perceptions and experiences of knee osteoarthritis management: a qualitative study of barriers and facilitators to delivering guideline-recommended treatments.",
+  "doi": "10.1080/02813432.2026.2688368",
+  "question": "According to the 2026 Danish guidelines on knee osteoarthritis management, what is a key finding regarding the delivery of non-surgical treatments?",
+  "options": {
+   "A": "GPs consistently provide education, exercise, and weight management as core elements.",
+   "B": "GPs have up-to-date knowledge of referral criteria for non-surgical treatments.",
+   "C": "Non-surgical treatments are limited and inconsistently provided by GPs.",
+   "D": "GPs actively disseminate guideline recommendations to patients."
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Danish guidelines on knee osteoarthritis management, what is a key finding regarding the delivery of non-surgical treatments?\nA. GPs consistently provide education, exercise, and weight management as core elements.\nB. GPs have up-to-date knowledge of referral criteria for non-surgical treatments.\nC. Non-surgical treatments are limited and inconsistently provided by GPs.\nD. GPs actively disseminate guideline recommendations to patients.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42447461",
+  "title": "User Acceptability and Adoption of AI-Generated Lifestyle Intervention Recommendations: Scoping Review and Theoretical Integration.",
+  "doi": "10.2196/93573",
+  "question": "According to the 2026 scoping review on user acceptability and adoption of AI-generated lifestyle recommendations, what percentage of the included studies utilized large language model-centered systems?",
+  "options": {
+   "A": "57.1%",
+   "B": "81%",
+   "C": "21%",
+   "D": "12%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 scoping review on user acceptability and adoption of AI-generated lifestyle recommendations, what percentage of the included studies utilized large language model-centered systems?\nA. 57.1%\nB. 81%\nC. 21%\nD. 12%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42623180",
+  "title": "Large Language Models for Oncology Guideline Maintenance: Prospective Case Study.",
+  "doi": "10.2196/93239",
+  "question": "According to the 2026 Large Language Models for Oncology Guideline Maintenance case study, what was the median number of formal errors identified per document when using LLMs as automated auditors for recently updated Onkopedia guidelines?",
+  "options": {
+   "A": "16.5",
+   "B": "13.8",
+   "C": "20.3",
+   "D": "35"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Large Language Models for Oncology Guideline Maintenance case study, what was the median number of formal errors identified per document when using LLMs as automated auditors for recently updated Onkopedia guidelines?\nA. 16.5\nB. 13.8\nC. 20.3\nD. 35\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42632900",
+  "title": "Development of national consensus-based recommendations for history taking, examination and clinical management of infants in chiropractic practice.",
+  "doi": "10.1186/s12998-026-00671-x",
+  "question": "According to the 2026 Danish national consensus-based recommendations for chiropractic care of infants (0-12 months), what is a key component emphasized for clinical assessment?",
+  "options": {
+   "A": "Detailed neurological testing including cranial nerve assessment.",
+   "B": "Mandatory imaging (X-ray or MRI) prior to any spinal manipulation.",
+   "C": "Minimum requirements for medical history taking, red flag screening, and general/musculoskeletal examination.",
+   "D": "Exclusive use of specific pediatric chiropractic adjusting techniques."
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Danish national consensus-based recommendations for chiropractic care of infants (0-12 months), what is a key component emphasized for clinical assessment?\nA. Detailed neurological testing including cranial nerve assessment.\nB. Mandatory imaging (X-ray or MRI) prior to any spinal manipulation.\nC. Minimum requirements for medical history taking, red flag screening, and general/musculoskeletal examination.\nD. Exclusive use of specific pediatric chiropractic adjusting techniques.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42701337",
+  "title": "Alignment Between Large Language Models and Consensus in Endoscopic Spinal Disc Surgery: A Comparative Analysis Against the Neurocore-SENSED.",
+  "doi": "10.1002/jsp2.70216",
+  "question": "According to the 2026 guideline comparing Large Language Models (LLMs) to the Neurocore-SENSED framework for endoscopic spinal disc surgery reporting, which LLM demonstrated the highest Spearman correlation with panel endorsement?",
+  "options": {
+   "A": "GPT-5.2",
+   "B": "Gemini 3 Pro",
+   "C": "Claude Sonnet 4.6",
+   "D": "Neurocore-SENSED"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guideline comparing Large Language Models (LLMs) to the Neurocore-SENSED framework for endoscopic spinal disc surgery reporting, which LLM demonstrated the highest Spearman correlation with panel endorsement?\nA. GPT-5.2\nB. Gemini 3 Pro\nC. Claude Sonnet 4.6\nD. Neurocore-SENSED\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42347760",
+  "title": "Expert Consensus on the Combined Application of Radiotherapy and Novel Systemic Agents in Breast Cancer Treatment.",
+  "doi": "10.1111/jebm.70148",
+  "question": "According to the 2026 Expert Consensus on Combined Radiotherapy and Novel Systemic Agents in Breast Cancer Treatment, what methodology was used to generate the recommendations?",
+  "options": {
+   "A": "A systematic review of literature up to November 2025 followed by Delphi methodology",
+   "B": "A randomized controlled trial comparing different systemic agents with radiotherapy",
+   "C": "A retrospective analysis of patient outcomes from multiple cancer centers",
+   "D": "A meta-analysis of existing clinical practice guidelines"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Expert Consensus on Combined Radiotherapy and Novel Systemic Agents in Breast Cancer Treatment, what methodology was used to generate the recommendations?\nA. A systematic review of literature up to November 2025 followed by Delphi methodology\nB. A randomized controlled trial comparing different systemic agents with radiotherapy\nC. A retrospective analysis of patient outcomes from multiple cancer centers\nD. A meta-analysis of existing clinical practice guidelines\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42814170",
+  "title": "An intra-operative checklist for low-impact robotic urologic surgery: a three-round J-ERUS/YAU Delphi consensus.",
+  "doi": "10.1007/s11701-026-03983-5",
+  "question": "According to the 2026 J-ERUS/YAU Delphi consensus checklist for low-impact robotic urologic surgery, what is the recommended threshold for including an item based on the median Likert score?",
+  "options": {
+   "A": "Median ≥ 4 with IQR ≤ 1",
+   "B": "Median ≥ 3 with IQR ≤ 1",
+   "C": "Median ≥ 4 with IQR ≤ 2",
+   "D": "Median ≥ 3 with IQR ≤ 2"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 J-ERUS/YAU Delphi consensus checklist for low-impact robotic urologic surgery, what is the recommended threshold for including an item based on the median Likert score?\nA. Median ≥ 4 with IQR ≤ 1\nB. Median ≥ 3 with IQR ≤ 1\nC. Median ≥ 4 with IQR ≤ 2\nD. Median ≥ 3 with IQR ≤ 2\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42316333",
+  "title": "Swiss Practice Recommendations for Chronic Prurigo Including Prurigo Nodularis.",
+  "doi": "10.1111/ijd.70533",
+  "question": "According to the 2026 Swiss Practice Recommendations for Chronic Prurigo, which of the following treatments is specifically recommended (not just suggested or considered) for Chronic Prurigo?",
+  "options": {
+   "A": "Topical calcineurin inhibitors",
+   "B": "Narrow-band ultraviolet B (NB-UVB)",
+   "C": "Methotrexate",
+   "D": "Sedating antihistamines for sleep"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Swiss Practice Recommendations for Chronic Prurigo, which of the following treatments is specifically recommended (not just suggested or considered) for Chronic Prurigo?\nA. Topical calcineurin inhibitors\nB. Narrow-band ultraviolet B (NB-UVB)\nC. Methotrexate\nD. Sedating antihistamines for sleep\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42828318",
+  "title": "The Swedish national guideline on immediate and uninterrupted skin-to-skin contact and mother-newborn couplet care.",
+  "doi": "10.3389/fped.2026.1937937",
+  "question": "According to the 2026 Swedish national guideline on immediate and uninterrupted skin-to-skin contact and mother-newborn couplet care, what is the minimum recommended duration of initial skin-to-skin contact for all newborns after birth?",
+  "options": {
+   "A": "At least 1 hour",
+   "B": "At least 2 hours",
+   "C": "At least 4 hours",
+   "D": "Until the first feeding is completed"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Swedish national guideline on immediate and uninterrupted skin-to-skin contact and mother-newborn couplet care, what is the minimum recommended duration of initial skin-to-skin contact for all newborns after birth?\nA. At least 1 hour\nB. At least 2 hours\nC. At least 4 hours\nD. Until the first feeding is completed\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41876324",
+  "title": "Experts' recommendations for the management of adult patients with cardiogenic shock.",
+  "doi": "10.1016/j.acvd.2026.02.001",
+  "question": "According to the 2026 French Society of Cardiology and French Intensive Care Society guidelines for managing adult cardiogenic shock, what is the recommended first-line vasopressor?",
+  "options": {
+   "A": "Dopamine",
+   "B": "Norepinephrine",
+   "C": "Epinephrine",
+   "D": "Phenylephrine"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 French Society of Cardiology and French Intensive Care Society guidelines for managing adult cardiogenic shock, what is the recommended first-line vasopressor?\nA. Dopamine\nB. Norepinephrine\nC. Epinephrine\nD. Phenylephrine\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42453443",
+  "title": "Improving filter recommendations: the role of individual light sensitivity in ecological conditions.",
+  "doi": "10.3389/fpsyg.2026.1755789",
+  "question": "According to the 2026 guidelines on improving filter recommendations for discomfort glare, what filter category is recommended for less sensitive individuals under high illuminations?",
+  "options": {
+   "A": "Category 2 (43-18% transmittance)",
+   "B": "Category 4 (8-3% transmittance)",
+   "C": "Category 3 (18-8% transmittance)",
+   "D": "Category 1 (80-43% transmittance)"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on improving filter recommendations for discomfort glare, what filter category is recommended for less sensitive individuals under high illuminations?\nA. Category 2 (43-18% transmittance)\nB. Category 4 (8-3% transmittance)\nC. Category 3 (18-8% transmittance)\nD. Category 1 (80-43% transmittance)\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42836327",
+  "title": "Nurse led titration of guideline-directed medical therapy for heart failure: an operative flow chart.",
+  "doi": "10.1093/eschf/xvag223",
+  "question": "According to the 2026 guidelines on nurse-led titration of guideline-directed medical therapy (GDMT) for heart failure, what is a key prerequisite for implementing such a program?",
+  "options": {
+   "A": "National educational plans and protocols must be established before local institutions can begin.",
+   "B": "Dedicated training for nurses and the adoption of management protocols at the local institutional level are essential.",
+   "C": "Multi-professional management strategies are only suggested for countries where nurse-led titration is already standard care.",
+   "D": "Detailed medical prescriptions must specify only the timing of titration, not the methods or other assessments."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guidelines on nurse-led titration of guideline-directed medical therapy (GDMT) for heart failure, what is a key prerequisite for implementing such a program?\nA. National educational plans and protocols must be established before local institutions can begin.\nB. Dedicated training for nurses and the adoption of management protocols at the local institutional level are essential.\nC. Multi-professional management strategies are only suggested for countries where nurse-led titration is already standard care.\nD. Detailed medical prescriptions must specify only the timing of titration, not the methods or other assessments.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42806997",
+  "title": "Expert consensus on sustainable employability of older workers: research, practice, and policy dimensions.",
+  "doi": "10.3389/fpsyg.2026.1903399",
+  "question": "According to the 2026 expert consensus guidelines on sustainable employability of older workers, which of the following policy-related dimensions did NOT achieve consensus among the experts?",
+  "options": {
+   "A": "Integration of health, social security, and employment policies",
+   "B": "Tax incentives for companies",
+   "C": "Funding for age-friendly workplace adaptations",
+   "D": "Organizational practices to combat ageism"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 expert consensus guidelines on sustainable employability of older workers, which of the following policy-related dimensions did NOT achieve consensus among the experts?\nA. Integration of health, social security, and employment policies\nB. Tax incentives for companies\nC. Funding for age-friendly workplace adaptations\nD. Organizational practices to combat ageism\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42802823",
+  "title": "A core outcome set for the wellbeing of healthcare professionals: an international Delphi consensus study.",
+  "doi": "10.1016/j.eclinm.2026.104145",
+  "question": "According to the 2026 international Delphi consensus study on a core outcome set for healthcare professional wellbeing, what percentage of panellists must rate a construct as 7-9 on a 9-point scale for it to be included in the core outcome set?",
+  "options": {
+   "A": "≥75%",
+   "B": "≥85%",
+   "C": "≥90%",
+   "D": "≥95%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 international Delphi consensus study on a core outcome set for healthcare professional wellbeing, what percentage of panellists must rate a construct as 7-9 on a 9-point scale for it to be included in the core outcome set?\nA. ≥75%\nB. ≥85%\nC. ≥90%\nD. ≥95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42192488",
+  "title": "Recommendations for implementing patient blood management-an updated modified Delphi consensus from a multidisciplinary expert panel in Hong Kong.",
+  "doi": "10.1186/s44158-026-00417-4",
+  "question": "According to the 2026 Hong Kong Society of Clinical Blood Management (HKSCBM) updated consensus statements on Patient Blood Management (PBM), what percentage of panel agreement was required for a consensus statement to be accepted?",
+  "options": {
+   "A": "≥ 70%",
+   "B": "≥ 80%",
+   "C": "≥ 90%",
+   "D": "≥ 95%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Hong Kong Society of Clinical Blood Management (HKSCBM) updated consensus statements on Patient Blood Management (PBM), what percentage of panel agreement was required for a consensus statement to be accepted?\nA. ≥ 70%\nB. ≥ 80%\nC. ≥ 90%\nD. ≥ 95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41563579",
+  "title": "Explaining away the illusion of consensus.",
+  "doi": "10.3758/s13421-025-01831-9",
+  "question": "According to the 2026 guideline 'Explaining away the illusion of consensus', which type of consensus was found to be more persuasive than a dependent consensus?",
+  "options": {
+   "A": "Independent consensus",
+   "B": "Dependent consensus with positive explanations",
+   "C": "Dependent consensus with negative explanations",
+   "D": "Dependent consensus without explanation"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guideline 'Explaining away the illusion of consensus', which type of consensus was found to be more persuasive than a dependent consensus?\nA. Independent consensus\nB. Dependent consensus with positive explanations\nC. Dependent consensus with negative explanations\nD. Dependent consensus without explanation\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1316984",
+  "title": "Enhancing Guideline-Directed Medical Therapy at Discharge Through Collaborative Care: Evidence from the TIME-HF Cluster Randomized Controlled Trial",
+  "doi": "10.12688/wellcomeopenres.26369.2",
+  "question": "According to the 2026 TIME-HF trial guidelines for heart failure management in India, what percentage of patients with HFrEF received all four components of guideline-directed medical therapy (GDMT) at discharge in the overall study population?",
+  "options": {
+   "A": "13%",
+   "B": "20%",
+   "C": "27%",
+   "D": "48.8%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 TIME-HF trial guidelines for heart failure management in India, what percentage of patients with HFrEF received all four components of guideline-directed medical therapy (GDMT) at discharge in the overall study population?\nA. 13%\nB. 20%\nC. 27%\nD. 48.8%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42142436",
+  "title": "Is candidemia mortality inevitable or a consequence of inadequate guideline adherence?",
+  "doi": "10.1016/j.bjid.2026.105824",
+  "question": "According to the 2026 Brazilian guidelines on candidemia management, which of the following factors was identified as an independent predictor of in-hospital mortality?",
+  "options": {
+   "A": "Failure to remove the central venous catheter",
+   "B": "Candida albicans as the causative species",
+   "C": "Age greater than 65 years",
+   "D": "Requirement for ICU admission"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Brazilian guidelines on candidemia management, which of the following factors was identified as an independent predictor of in-hospital mortality?\nA. Failure to remove the central venous catheter\nB. Candida albicans as the causative species\nC. Age greater than 65 years\nD. Requirement for ICU admission\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42670593",
+  "title": "Clinical Decision-Making and Guideline Alignment Among Brazilian Physical Therapists: Evidence From Standardized Carpal Tunnel Syndrome Vignettes.",
+  "doi": "10.1111/jep.70575",
+  "question": "According to the 2026 Brazilian physical therapist study on Carpal Tunnel Syndrome (CTS) clinical decision-making, what was the overall mean percentage alignment of participants' decisions with guideline recommendations?",
+  "options": {
+   "A": "46.2%",
+   "B": "66.7%",
+   "C": "45.9%",
+   "D": "10.7%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Brazilian physical therapist study on Carpal Tunnel Syndrome (CTS) clinical decision-making, what was the overall mean percentage alignment of participants' decisions with guideline recommendations?\nA. 46.2%\nB. 66.7%\nC. 45.9%\nD. 10.7%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41980630",
+  "title": "LatinVisco: A latin american expert consensus on viscosupplementation for knee osteoarthritis.",
+  "doi": "10.1016/j.ctim.2026.103385",
+  "question": "According to the 2026 LatinVisco consensus guidelines on viscosupplementation for knee osteoarthritis, for which knee OA grades is viscosupplementation specifically recommended?",
+  "options": {
+   "A": "Grades I-III",
+   "B": "Grades II-IV",
+   "C": "Grades I-II only",
+   "D": "Grades III-IV only"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 LatinVisco consensus guidelines on viscosupplementation for knee osteoarthritis, for which knee OA grades is viscosupplementation specifically recommended?\nA. Grades I-III\nB. Grades II-IV\nC. Grades I-II only\nD. Grades III-IV only\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42792002",
+  "title": "Vancomycin AUC&lt;sub&gt;24&lt;/sub&gt; Estimation for Children with Bayesian Forecasting and First-Order Equations to Update Dose Recommendations.",
+  "doi": "10.3390/antibiotics15090852",
+  "question": "According to the 2026 Vancomycin AUC Estimation guideline for children, what percentage of the analyzed initial vancomycin dose regimens resulted in an estimated AUC24 below 300 mg·h/L?",
+  "options": {
+   "A": "17%",
+   "B": "46%",
+   "C": "78%",
+   "D": "60%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Vancomycin AUC Estimation guideline for children, what percentage of the analyzed initial vancomycin dose regimens resulted in an estimated AUC24 below 300 mg·h/L?\nA. 17%\nB. 46%\nC. 78%\nD. 60%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41865800",
+  "title": "Ammonia measurement in cirrhosis: International Delphi consensus recommendations from ISHEN.",
+  "doi": "10.1016/j.jhep.2026.03.020",
+  "question": "According to the 2026 International Society for Hepatic Encephalopathy and Nitrogen Metabolism (ISHEN) consensus recommendations on ammonia measurement in cirrhosis, what percentage of consensus was achieved on all questions by the expert panel?",
+  "options": {
+   "A": "≥75%",
+   "B": "≥85%",
+   "C": "≥90%",
+   "D": "≥95%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 International Society for Hepatic Encephalopathy and Nitrogen Metabolism (ISHEN) consensus recommendations on ammonia measurement in cirrhosis, what percentage of consensus was achieved on all questions by the expert panel?\nA. ≥75%\nB. ≥85%\nC. ≥90%\nD. ≥95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42124073",
+  "title": "The 2024 Endocrine Society Guideline on Vitamin D: Comprehensive Summary and Critical Appraisal.",
+  "doi": "10.3390/nu18091472",
+  "question": "According to the 2024 Endocrine Society Clinical Practice Guideline on Vitamin D, for which of the following populations is empiric vitamin D supplementation recommended?",
+  "options": {
+   "A": "Individuals aged 19-74 years with normal 25(OH)D levels",
+   "B": "Individuals aged 1 to 18 years",
+   "C": "Individuals aged 19-74 years with prediabetes",
+   "D": "Individuals aged 19-74 years without prediabetes"
+  },
+  "answer": "B",
+  "prompt": "According to the 2024 Endocrine Society Clinical Practice Guideline on Vitamin D, for which of the following populations is empiric vitamin D supplementation recommended?\nA. Individuals aged 19-74 years with normal 25(OH)D levels\nB. Individuals aged 1 to 18 years\nC. Individuals aged 19-74 years with prediabetes\nD. Individuals aged 19-74 years without prediabetes\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42485883",
+  "title": "Brazilian Society of Otology Task Force - bone-anchored hearing system - recommendations based on strength of evidence.",
+  "doi": "10.1016/j.bjorl.2026.101854",
+  "question": "According to the 2026 Brazilian Society of Otology Task Force recommendations on bone-anchored hearing systems (BAHS), which statement accurately reflects a key finding regarding active transcutaneous devices compared to percutaneous devices?",
+  "options": {
+   "A": "Active transcutaneous devices are more cost-effective for health care systems and demonstrate superior long-term safety and quality-of-life outcomes compared with percutaneous devices.",
+   "B": "Percutaneous devices offer statistically significant improvements in quality of life compared to active transcutaneous devices.",
+   "C": "Active transcutaneous devices show no statistically significant difference in quality of life compared to percutaneous devices, but are less cost-effective.",
+   "D": "Both active transcutaneous and percutaneous devices provide similar long-term safety outcomes, but active devices are less cost-effective."
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Brazilian Society of Otology Task Force recommendations on bone-anchored hearing systems (BAHS), which statement accurately reflects a key finding regarding active transcutaneous devices compared to percutaneous devices?\nA. Active transcutaneous devices are more cost-effective for health care systems and demonstrate superior long-term safety and quality-of-life outcomes compared with percutaneous devices.\nB. Percutaneous devices offer statistically significant improvements in quality of life compared to active transcutaneous devices.\nC. Active transcutaneous devices show no statistically significant difference in quality of life compared to percutaneous devices, but are less cost-effective.\nD. Both active transcutaneous and percutaneous devices provide similar long-term safety outcomes, but active devices are less cost-effective.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41757711",
+  "title": "Expert consensus on skill acquisition in sport: A Delphi study.",
+  "doi": "10.1080/02640414.2026.2637044",
+  "question": "According to the 2026 Expert Consensus on Skill Acquisition in Sport, what is the defined role of a skill acquisition specialist within multidisciplinary support teams?",
+  "options": {
+   "A": "To primarily focus on the physiological conditioning of athletes.",
+   "B": "To represent a unique role focused on the performance, learning, and refinement of perceptual, cognitive, and motor skills.",
+   "C": "To manage the logistical and administrative aspects of team operations.",
+   "D": "To provide psychological counseling and mental skills training."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Expert Consensus on Skill Acquisition in Sport, what is the defined role of a skill acquisition specialist within multidisciplinary support teams?\nA. To primarily focus on the physiological conditioning of athletes.\nB. To represent a unique role focused on the performance, learning, and refinement of perceptual, cognitive, and motor skills.\nC. To manage the logistical and administrative aspects of team operations.\nD. To provide psychological counseling and mental skills training.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42866620",
+  "title": "Consensus recommendations for neurofibromatosis type 1 management in Asia Pacific.",
+  "doi": "10.1016/j.isci.2026.117002",
+  "question": "According to the 2026 Asia-Pacific consensus recommendations for Neurofibromatosis type 1 (NF1) management, what percentage of consensus was required for a statement to be included?",
+  "options": {
+   "A": "60%",
+   "B": "75%",
+   "C": "85%",
+   "D": "90%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Asia-Pacific consensus recommendations for Neurofibromatosis type 1 (NF1) management, what percentage of consensus was required for a statement to be included?\nA. 60%\nB. 75%\nC. 85%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42367099",
+  "title": "Expert consensus on the use of oral antiseptics in oral surgery: Evidence-based clinical practice guidelines.",
+  "doi": "10.4317/medoral.28160",
+  "question": "According to the 2026 Expert Consensus Guidelines on Oral Antiseptics in Oral Surgery, what is the recommended concentration range for chlorhexidine (CHX) when used as the reference perioperative antiseptic?",
+  "options": {
+   "A": "0.02-0.04%",
+   "B": "0.12-0.2%",
+   "C": "0.5-1.0%",
+   "D": "2.0-4.0%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Expert Consensus Guidelines on Oral Antiseptics in Oral Surgery, what is the recommended concentration range for chlorhexidine (CHX) when used as the reference perioperative antiseptic?\nA. 0.02-0.04%\nB. 0.12-0.2%\nC. 0.5-1.0%\nD. 2.0-4.0%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42150729",
+  "title": "Evaluating retrieval-augmented generation for guideline-grounded textual planning in implant dentistry: A comparative study.",
+  "doi": "10.1016/j.jdent.2026.106750",
+  "question": "According to the 2026 study evaluating retrieval-augmented generation (RAG) for implant dentistry guidelines, what specific area showed a significant improvement with the RAG-LLM compared to the standard LLM?",
+  "options": {
+   "A": "Overall clinical accuracy",
+   "B": "Biomechanical spatial planning",
+   "C": "Evidence traceability and citation precision",
+   "D": "Management of out-of-distribution synthetic cases"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 study evaluating retrieval-augmented generation (RAG) for implant dentistry guidelines, what specific area showed a significant improvement with the RAG-LLM compared to the standard LLM?\nA. Overall clinical accuracy\nB. Biomechanical spatial planning\nC. Evidence traceability and citation precision\nD. Management of out-of-distribution synthetic cases\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41396747",
+  "title": "MRHAF: Multi-Relational Hierarchical Attention With Hybrid Knowledge Fusion for Explainable Herb Recommendations.",
+  "doi": "10.1109/jbhi.2025.3644489",
+  "question": "According to the 2026 MRHAF guideline for TCM herb recommendations, what percentage improvement in Precision@10 did the MRHAF framework achieve over state-of-the-art baselines on the two benchmark datasets?",
+  "options": {
+   "A": "9.75% and 22.3%",
+   "B": "10.0% and 20.0%",
+   "C": "15.0% and 25.0%",
+   "D": "5.0% and 10.0%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 MRHAF guideline for TCM herb recommendations, what percentage improvement in Precision@10 did the MRHAF framework achieve over state-of-the-art baselines on the two benchmark datasets?\nA. 9.75% and 22.3%\nB. 10.0% and 20.0%\nC. 15.0% and 25.0%\nD. 5.0% and 10.0%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42728591",
+  "title": "No utilization without subjective need - a mixed-methods study on guideline-compliant mental health care for individuals with depressive symptoms.",
+  "doi": "10.1186/s12913-026-15562-3",
+  "question": "According to the 2026 guideline-compliant mental health care study on depressive symptoms, what is the primary finding regarding the relationship between subjective need and help-seeking behavior?",
+  "options": {
+   "A": "Individuals with depressive symptoms are more likely to seek help when they perceive a subjective need, even if objective need is low.",
+   "B": "Subjective need is not a significant predictor of help-seeking behavior; objective need (diagnosis) is the sole determinant.",
+   "C": "Seeking professional help is highly unlikely in the absence of a perceived subjective need, regardless of objective need.",
+   "D": "A dichotomous classification of subjective need (yes/no) is sufficient to understand help-seeking patterns."
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 guideline-compliant mental health care study on depressive symptoms, what is the primary finding regarding the relationship between subjective need and help-seeking behavior?\nA. Individuals with depressive symptoms are more likely to seek help when they perceive a subjective need, even if objective need is low.\nB. Subjective need is not a significant predictor of help-seeking behavior; objective need (diagnosis) is the sole determinant.\nC. Seeking professional help is highly unlikely in the absence of a perceived subjective need, regardless of objective need.\nD. A dichotomous classification of subjective need (yes/no) is sufficient to understand help-seeking patterns.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42761407",
+  "title": "MultiVirusConsensus: an accurate and efficient open-source pipeline for identification and consensus sequence generation of multiple viruses from mixed samples.",
+  "doi": "10.1093/bioadv/vbag256",
+  "question": "According to the 2026 MultiVirusConsensus guideline, which of the following describes a key feature of the MVC pipeline for processing mixed viral samples?",
+  "options": {
+   "A": "It performs consensus sequence calling for all viruses of interest completely in parallel.",
+   "B": "It requires writing and reading intermediate files to optimize disk access speed.",
+   "C": "It is optimized primarily for identifying single viruses within a mixed sample.",
+   "D": "It is a proprietary software available only through a commercial license."
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 MultiVirusConsensus guideline, which of the following describes a key feature of the MVC pipeline for processing mixed viral samples?\nA. It performs consensus sequence calling for all viruses of interest completely in parallel.\nB. It requires writing and reading intermediate files to optimize disk access speed.\nC. It is optimized primarily for identifying single viruses within a mixed sample.\nD. It is a proprietary software available only through a commercial license.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42022151",
+  "title": "Consensus on Human Epidermal Growth Factor Receptor 2 Overexpression Testing in Pan-Tumor.",
+  "doi": "10.1002/cai2.70060",
+  "question": "According to the 2026 Chinese expert consensus on HER2 testing in pan-tumor indications, what is the primary motivation for developing these guidelines?",
+  "options": {
+   "A": "To standardize HER2 testing methodologies and diagnostic strategies across diverse cancers, addressing variability in clinical practice.",
+   "B": "To promote the use of trastuzumab deruxtecan exclusively in breast and gastric cancers.",
+   "C": "To replace immunohistochemistry (IHC) with fluorescence in situ hybridization (FISH) as the sole method for HER2 testing.",
+   "D": "To limit the application of HER2-targeted therapies to only FDA-approved indications."
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Chinese expert consensus on HER2 testing in pan-tumor indications, what is the primary motivation for developing these guidelines?\nA. To standardize HER2 testing methodologies and diagnostic strategies across diverse cancers, addressing variability in clinical practice.\nB. To promote the use of trastuzumab deruxtecan exclusively in breast and gastric cancers.\nC. To replace immunohistochemistry (IHC) with fluorescence in situ hybridization (FISH) as the sole method for HER2 testing.\nD. To limit the application of HER2-targeted therapies to only FDA-approved indications.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42773835",
+  "title": "Recommendations for the development of erosion-resistant tidal marshes to enhance nature-based flood risk mitigation.",
+  "doi": "10.1002/eap.70306",
+  "question": "According to the 2026 recommendations for developing erosion-resistant tidal marshes for flood risk mitigation, what is a key factor influencing the suitability of specific interventions?",
+  "options": {
+   "A": "The total budget allocated for the project.",
+   "B": "The location of the marsh (seaward or landward of a defense structure) and physical conditions (elevation relative to tidal range, wave forcing).",
+   "C": "The specific species of vegetation chosen for planting.",
+   "D": "The historical land use of the site prior to marsh creation."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 recommendations for developing erosion-resistant tidal marshes for flood risk mitigation, what is a key factor influencing the suitability of specific interventions?\nA. The total budget allocated for the project.\nB. The location of the marsh (seaward or landward of a defense structure) and physical conditions (elevation relative to tidal range, wave forcing).\nC. The specific species of vegetation chosen for planting.\nD. The historical land use of the site prior to marsh creation.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42155695",
+  "title": "Diagnosis, treatment and monitoring of chronic nonbacterial osteomyelitis (CNO) and chronic recurrent multifocal osteomyelitis (CRMO) - Evidence, practice and consensus-based recommendations from the German pediatric rheumatology society (GKJR).",
+  "doi": "10.1016/j.autrev.2026.104075",
+  "question": "According to the 2026 German pediatric rheumatology society (GKJR) guidelines for Chronic Nonbacterial Osteomyelitis (CNO), what is the recommended initial imaging modality for diagnostic workup?",
+  "options": {
+   "A": "Whole-body skeletal imaging, typically MRI",
+   "B": "Plain radiographs of affected bones",
+   "C": "Bone scintigraphy",
+   "D": "CT scan of the spine"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 German pediatric rheumatology society (GKJR) guidelines for Chronic Nonbacterial Osteomyelitis (CNO), what is the recommended initial imaging modality for diagnostic workup?\nA. Whole-body skeletal imaging, typically MRI\nB. Plain radiographs of affected bones\nC. Bone scintigraphy\nD. CT scan of the spine\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42504538",
+  "title": "Practical guidance for Win Statistics and Tournament Methods for multifaceted outcomes in stroke research: Review and recommendations.",
+  "doi": "10.1177/17474930261475853",
+  "question": "According to the 2026 guidance on Win Statistics and Tournament Methods for multifaceted outcomes in stroke research, what is the primary definition of a 'better outcome' when using these methods?",
+  "options": {
+   "A": "A statistically significant improvement in a single, pre-specified primary outcome measure like the modified Rankin Scale.",
+   "B": "A holistic assessment based on information collected across multiple health facets, such as mortality, symptom reduction, and quality of life.",
+   "C": "The patient achieving the lowest score on a standardized functional assessment scale.",
+   "D": "A reduction in hospital length of stay compared to the control group."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guidance on Win Statistics and Tournament Methods for multifaceted outcomes in stroke research, what is the primary definition of a 'better outcome' when using these methods?\nA. A statistically significant improvement in a single, pre-specified primary outcome measure like the modified Rankin Scale.\nB. A holistic assessment based on information collected across multiple health facets, such as mortality, symptom reduction, and quality of life.\nC. The patient achieving the lowest score on a standardized functional assessment scale.\nD. A reduction in hospital length of stay compared to the control group.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42782985",
+  "title": "Accuracy and Short-Term Consistency of Generative AI Chatbots in Guideline-Based Endodontic Decision Support: A Multi-Model Benchmarking Study.",
+  "doi": "10.3390/dj14090598",
+  "question": "According to the 2026 study on Generative AI Chatbots in Endodontic Decision Support, which chatbot demonstrated the highest weighted kappa values for response consistency across assessment days?",
+  "options": {
+   "A": "Gemini 2.5 Pro",
+   "B": "ChatGPT-4o",
+   "C": "DeepSeek-V3-0324",
+   "D": "MedGebra GPT-4"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 study on Generative AI Chatbots in Endodontic Decision Support, which chatbot demonstrated the highest weighted kappa values for response consistency across assessment days?\nA. Gemini 2.5 Pro\nB. ChatGPT-4o\nC. DeepSeek-V3-0324\nD. MedGebra GPT-4\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42840343",
+  "title": "Global variability in colorectal cancer screening guidelines: panel composition and recommendations.",
+  "doi": "10.1093/jcag/gwag024",
+  "question": "According to the 2026 Global variability in colorectal cancer screening guidelines report, what was a key finding regarding the composition of guideline development panels in G7 countries?",
+  "options": {
+   "A": "Patient and public representatives were consistently involved in all G7 guideline development panels.",
+   "B": "Funding sources for guideline development were uniformly transparent across all G7 countries.",
+   "C": "There was limited involvement of patient and public representatives in guideline development panels.",
+   "D": "Conflicts of interest were universally reported and managed identically across all G7 countries."
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Global variability in colorectal cancer screening guidelines report, what was a key finding regarding the composition of guideline development panels in G7 countries?\nA. Patient and public representatives were consistently involved in all G7 guideline development panels.\nB. Funding sources for guideline development were uniformly transparent across all G7 countries.\nC. There was limited involvement of patient and public representatives in guideline development panels.\nD. Conflicts of interest were universally reported and managed identically across all G7 countries.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42263419",
+  "title": "An antibiotic chatbot: Evaluation of a retrieval-augmented generation approach for providing guideline-based antimicrobial advice.",
+  "doi": "10.1016/j.jinf.2026.106789",
+  "question": "According to the 2026 evaluation of an antibiotic chatbot using retrieval-augmented generation (RAG) based on Oxford University Hospitals guidelines, what percentage of simulated clinical advice queries did the model attempt to answer?",
+  "options": {
+   "A": "87%",
+   "B": "93%",
+   "C": "81%",
+   "D": "56%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 evaluation of an antibiotic chatbot using retrieval-augmented generation (RAG) based on Oxford University Hospitals guidelines, what percentage of simulated clinical advice queries did the model attempt to answer?\nA. 87%\nB. 93%\nC. 81%\nD. 56%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42735390",
+  "title": "Prioritising modifiable risk factors for self-management of urinary incontinence in older men: integrating expert consensus with patient readiness.",
+  "doi": "10.1093/ageing/afag270",
+  "question": "According to the 2026 guidelines on prioritizing modifiable risk factors for urinary incontinence self-management in older men, which of the following factors was identified as a candidate priority based on exceeding thresholds for prevalence, willingness, AND perceived capability?",
+  "options": {
+   "A": "Nocturia/nocturnal polyuria",
+   "B": "Increased BMI/obesity",
+   "C": "Insomnia/sleep disorder",
+   "D": "Anxiety"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guidelines on prioritizing modifiable risk factors for urinary incontinence self-management in older men, which of the following factors was identified as a candidate priority based on exceeding thresholds for prevalence, willingness, AND perceived capability?\nA. Nocturia/nocturnal polyuria\nB. Increased BMI/obesity\nC. Insomnia/sleep disorder\nD. Anxiety\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42828469",
+  "title": "Resistance Training for Cyclists: Scientific Evidence and Practical Recommendations.",
+  "doi": "10.1111/sms.70377",
+  "question": "According to the 2026 guidelines on Resistance Training for Cyclists, what is the recommended frequency of resistance training sessions per week for enhancing cycling performance?",
+  "options": {
+   "A": "1-2 sessions",
+   "B": "3-5 sessions",
+   "C": "5-7 sessions",
+   "D": "2-3 sessions"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on Resistance Training for Cyclists, what is the recommended frequency of resistance training sessions per week for enhancing cycling performance?\nA. 1-2 sessions\nB. 3-5 sessions\nC. 5-7 sessions\nD. 2-3 sessions\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42404404",
+  "title": "Curriculum Innovation: A Multicenter Feasibility Study of a Consensus-Based Brain Death Simulation Curriculum.",
+  "doi": "10.1212/ne9.0000000000200335",
+  "question": "According to the 2026 Curriculum Innovation guideline on Brain Death Simulation, what percentage of participants self-assessed their ACGME Brain Death/Death by Neurologic Criteria (BD/DNC) milestone competency as level 4 or 5 after completing the curriculum?",
+  "options": {
+   "A": "47%",
+   "B": "68%",
+   "C": "79%",
+   "D": "88%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Curriculum Innovation guideline on Brain Death Simulation, what percentage of participants self-assessed their ACGME Brain Death/Death by Neurologic Criteria (BD/DNC) milestone competency as level 4 or 5 after completing the curriculum?\nA. 47%\nB. 68%\nC. 79%\nD. 88%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42260242",
+  "title": "Physical Exercise as an Adjuvant to Glucocorticoid Therapy: Clinical Recommendations and Evidence Review.",
+  "doi": "10.1007/s40279-026-02469-6",
+  "question": "According to the 2026 Clinical Recommendations and Evidence Review on Physical Exercise as an Adjuvant to Glucocorticoid Therapy, what is the recommended minimum number of studies included in the systematic review?",
+  "options": {
+   "A": "15",
+   "B": "19",
+   "C": "25",
+   "D": "663"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Clinical Recommendations and Evidence Review on Physical Exercise as an Adjuvant to Glucocorticoid Therapy, what is the recommended minimum number of studies included in the systematic review?\nA. 15\nB. 19\nC. 25\nD. 663\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1265494",
+  "title": "PUBLIC KNOWLEDGE, BARRIERS AND FACILITATORS TO UK DIETARY GUIDELINE ADHERENCE: A NATIONALLY REPRESENTATIVE SURVEY",
+  "doi": "10.64898/2026.04.27.26351827",
+  "question": "According to the 2026 UK Public Knowledge, Barriers and Facilitators to Dietary Guideline Adherence survey, what percentage of participants demonstrated moderate knowledge of the Eatwell Guide recommendations using strict scoring criteria?",
+  "options": {
+   "A": "53.3%",
+   "B": "17.9%",
+   "C": "72.5%",
+   "D": "58.9%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 UK Public Knowledge, Barriers and Facilitators to Dietary Guideline Adherence survey, what percentage of participants demonstrated moderate knowledge of the Eatwell Guide recommendations using strict scoring criteria?\nA. 53.3%\nB. 17.9%\nC. 72.5%\nD. 58.9%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42128745",
+  "title": "Probability of meeting the restrained sitting guideline in early childhood: an international cross-sectional study.",
+  "doi": "10.1016/j.jsams.2026.04.018",
+  "question": "According to the 2026 international cross-sectional study on restrained sitting guidelines in early childhood, what factor was associated with a 71% lower odds of meeting the guidelines?",
+  "options": {
+   "A": "Spending 60 minutes or more in a vehicle",
+   "B": "Living in an urban area",
+   "C": "Being male",
+   "D": "Having less than 60 minutes of physical activity per day"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 international cross-sectional study on restrained sitting guidelines in early childhood, what factor was associated with a 71% lower odds of meeting the guidelines?\nA. Spending 60 minutes or more in a vehicle\nB. Living in an urban area\nC. Being male\nD. Having less than 60 minutes of physical activity per day\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42908391",
+  "title": "Update of the S1-guideline atypical fibroxanthoma (AFX) and pleomorphic dermal sarcoma (PDS).",
+  "doi": "10.1111/ddg.70471x",
+  "question": "According to the 2026 S1-guideline update on atypical fibroxanthoma (AFX) and pleomorphic dermal sarcoma (PDS), what surgical margin is recommended for PDS to achieve low local recurrence rates?",
+  "options": {
+   "A": "1 cm margin",
+   "B": "2 cm margin",
+   "C": "Microscopically controlled surgery only",
+   "D": "Margins are not necessary for PDS"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 S1-guideline update on atypical fibroxanthoma (AFX) and pleomorphic dermal sarcoma (PDS), what surgical margin is recommended for PDS to achieve low local recurrence rates?\nA. 1 cm margin\nB. 2 cm margin\nC. Microscopically controlled surgery only\nD. Margins are not necessary for PDS\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42529748",
+  "title": "Nutritional considerations for glucagon-like peptide-based therapies: An Asian Indian consensus recommendation.",
+  "doi": "10.1016/j.obpill.2026.100296",
+  "question": "According to the 2026 Asian Indian consensus recommendations on nutritional considerations for GLP-based therapies, what is a key strategy highlighted for supporting long-term metabolic health outcomes in individuals using these therapies?",
+  "options": {
+   "A": "Prioritizing high-fat, low-carbohydrate diets to maximize weight loss.",
+   "B": "Implementing calorie-controlled meal replacement, potentially including diabetes-specific nutritional (DSN) formulations, alongside sustainable lifestyle practices and resistance exercise.",
+   "C": "Focusing solely on micronutrient supplementation without dietary modification.",
+   "D": "Recommending complete avoidance of carbohydrates to prevent blood sugar spikes."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Asian Indian consensus recommendations on nutritional considerations for GLP-based therapies, what is a key strategy highlighted for supporting long-term metabolic health outcomes in individuals using these therapies?\nA. Prioritizing high-fat, low-carbohydrate diets to maximize weight loss.\nB. Implementing calorie-controlled meal replacement, potentially including diabetes-specific nutritional (DSN) formulations, alongside sustainable lifestyle practices and resistance exercise.\nC. Focusing solely on micronutrient supplementation without dietary modification.\nD. Recommending complete avoidance of carbohydrates to prevent blood sugar spikes.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42581655",
+  "title": "Meta-analyses of dietary exposures must consider energy adjustment: recommendations from a meta-scientific review.",
+  "doi": "10.1093/aje/kwag188",
+  "question": "According to the 2026 meta-scientific review on dietary exposure meta-analyses, what percentage of the unique models examined estimated substitution effects?",
+  "options": {
+   "A": "82%",
+   "B": "18%",
+   "C": "50%",
+   "D": "100%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 meta-scientific review on dietary exposure meta-analyses, what percentage of the unique models examined estimated substitution effects?\nA. 82%\nB. 18%\nC. 50%\nD. 100%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42779363",
+  "title": "International Guideline on the Diagnosis, Treatment, and Monitoring of Long-Chain Fatty Acid Oxidation Disorders (LC-FAOD).",
+  "doi": "10.1002/jimd.70251",
+  "question": "According to the 2026 International Guideline on the Diagnosis, Treatment, and Monitoring of Long-Chain Fatty Acid Oxidation Disorders (LC-FAOD), what percentage of agreement was required to reach consensus during the guideline development process?",
+  "options": {
+   "A": "≥ 75%",
+   "B": "≥ 80%",
+   "C": "≥ 90%",
+   "D": "≥ 95%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 International Guideline on the Diagnosis, Treatment, and Monitoring of Long-Chain Fatty Acid Oxidation Disorders (LC-FAOD), what percentage of agreement was required to reach consensus during the guideline development process?\nA. ≥ 75%\nB. ≥ 80%\nC. ≥ 90%\nD. ≥ 95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42519253",
+  "title": "Barriers to Guideline-Based Management of Esophageal Carcinoma: A Narrative Review With Special Reference to North East India.",
+  "doi": "10.7759/cureus.111199",
+  "question": "According to the 2026 narrative review on barriers to guideline-based management of esophageal carcinoma, particularly in North East India, which of the following is identified as a significant barrier contributing to deviations from guideline-concordant care?",
+  "options": {
+   "A": "Limited access to specialized oncology services",
+   "B": "Lack of immunotherapy options",
+   "C": "Absence of nutritional assessment protocols",
+   "D": "Over-reliance on surgical intervention"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 narrative review on barriers to guideline-based management of esophageal carcinoma, particularly in North East India, which of the following is identified as a significant barrier contributing to deviations from guideline-concordant care?\nA. Limited access to specialized oncology services\nB. Lack of immunotherapy options\nC. Absence of nutritional assessment protocols\nD. Over-reliance on surgical intervention\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42468604",
+  "title": "ESTRO clinical practice guideline on high-dose thoracic reirradiation for non-small cell lung cancer.",
+  "doi": "10.1016/j.radonc.2026.111707",
+  "question": "According to the 2026 ESTRO clinical practice guideline on high-dose thoracic reirradiation for NSCLC, what is considered essential for the safe delivery of this treatment?",
+  "options": {
+   "A": "Combining reirradiation with systemic therapy whenever possible",
+   "B": "Using highly conformal image-guided techniques and structured cumulative dose assessment",
+   "C": "Standardized follow-up strategies focused solely on disease control",
+   "D": "Prioritizing dose escalation above all cumulative organ at risk constraints"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 ESTRO clinical practice guideline on high-dose thoracic reirradiation for NSCLC, what is considered essential for the safe delivery of this treatment?\nA. Combining reirradiation with systemic therapy whenever possible\nB. Using highly conformal image-guided techniques and structured cumulative dose assessment\nC. Standardized follow-up strategies focused solely on disease control\nD. Prioritizing dose escalation above all cumulative organ at risk constraints\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42105417",
+  "title": "First Brazilian expert consensus for video capsule endoscopy and balloon-assisted enteroscopy.",
+  "doi": "10.1016/j.clinsp.2026.100980",
+  "question": "According to the First Brazilian expert consensus for video capsule endoscopy and balloon-assisted enteroscopy (2026), what is the minimum agreement threshold required for a statement to be included as a recommendation?",
+  "options": {
+   "A": "60%",
+   "B": "70%",
+   "C": "80%",
+   "D": "90%"
+  },
+  "answer": "C",
+  "prompt": "According to the First Brazilian expert consensus for video capsule endoscopy and balloon-assisted enteroscopy (2026), what is the minimum agreement threshold required for a statement to be included as a recommendation?\nA. 60%\nB. 70%\nC. 80%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42666398",
+  "title": "From obesity to healthy longevity: a consensus-based clinical framework for diagnosis, staging, and treatment.",
+  "doi": "10.3389/fragi.2026.1834323",
+  "question": "According to the 2026 Croatian clinical framework for obesity management, what is the recommended approach to pharmacological treatment?",
+  "options": {
+   "A": "Pharmacological treatment should be initiated based solely on BMI stage.",
+   "B": "Pharmacological treatment is stage-based and driven by the presence of comorbidities, prioritizing agents with organ-protective effects.",
+   "C": "Pharmacological treatment is recommended only for patients with severe obesity (Stage III) and is not indicated for earlier stages.",
+   "D": "Pharmacological treatment should be reserved for patients who have failed lifestyle interventions and psychological support, regardless of disease stage or comorbidities."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Croatian clinical framework for obesity management, what is the recommended approach to pharmacological treatment?\nA. Pharmacological treatment should be initiated based solely on BMI stage.\nB. Pharmacological treatment is stage-based and driven by the presence of comorbidities, prioritizing agents with organ-protective effects.\nC. Pharmacological treatment is recommended only for patients with severe obesity (Stage III) and is not indicated for earlier stages.\nD. Pharmacological treatment should be reserved for patients who have failed lifestyle interventions and psychological support, regardless of disease stage or comorbidities.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41919364",
+  "title": "S1 Guideline on Infected Interdigital Intertrigo (also called Gram-Negative Toe Web Infection).",
+  "doi": "10.1111/ddg.70040x",
+  "question": "According to the 2026 S1 Guideline on Infected Interdigital Intertrigo, what is the recommended antibiotic coverage for associated uncomplicated cellulitis in immunocompetent patients?",
+  "options": {
+   "A": "Broad-spectrum coverage including Pseudomonas aeruginosa and Enterobacterales",
+   "B": "Coverage limited to Staphylococcus aureus",
+   "C": "Coverage for common dermatophytes and yeasts",
+   "D": "Coverage for gram-positive cocci including streptococci and enterococci"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 S1 Guideline on Infected Interdigital Intertrigo, what is the recommended antibiotic coverage for associated uncomplicated cellulitis in immunocompetent patients?\nA. Broad-spectrum coverage including Pseudomonas aeruginosa and Enterobacterales\nB. Coverage limited to Staphylococcus aureus\nC. Coverage for common dermatophytes and yeasts\nD. Coverage for gram-positive cocci including streptococci and enterococci\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42911241",
+  "title": "DELPHI expert consensus-derived factors influencing the early use of monoclonal high-efficacy therapies in treatment-naïve patients with relapsing-remitting multiple sclerosis.",
+  "doi": "10.1007/s00415-026-14167-4",
+  "question": "According to the 2026 French expert consensus guidelines on initiating high-efficacy therapies in treatment-naïve RRMS patients, which of the following radiological findings *alone* consistently leads to a recommendation for monoclonal HET?",
+  "options": {
+   "A": "≥3 infratentorial lesions",
+   "B": "≥2 spinal cord lesions",
+   "C": "A single spinal cord lesion",
+   "D": "High brain lesion load (>20 lesions)"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 French expert consensus guidelines on initiating high-efficacy therapies in treatment-naïve RRMS patients, which of the following radiological findings *alone* consistently leads to a recommendation for monoclonal HET?\nA. ≥3 infratentorial lesions\nB. ≥2 spinal cord lesions\nC. A single spinal cord lesion\nD. High brain lesion load (>20 lesions)\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42273534",
+  "title": "Development of a national consensus guideline for termination of resuscitation in the out-of-hospital environment.",
+  "doi": "10.29045/14784726.2026.6.11.1.56",
+  "question": "According to the 2026 national consensus guideline for termination of resuscitation in the out-of-hospital environment, what percentage of resuscitation attempts in England in 2022 were terminated at the scene?",
+  "options": {
+   "A": "7.8%",
+   "B": "58%",
+   "C": "34,400",
+   "D": "20%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 national consensus guideline for termination of resuscitation in the out-of-hospital environment, what percentage of resuscitation attempts in England in 2022 were terminated at the scene?\nA. 7.8%\nB. 58%\nC. 34,400\nD. 20%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42792276",
+  "title": "Direct and Indirect Parental Support for Meeting Physical Activity Recommendations Among Chilean Children and Adolescents.",
+  "doi": "10.3390/bs16091476",
+  "question": "According to the 2026 Chilean guidelines on parental support for physical activity, which specific paternal support behavior showed the strongest association with meeting the 60-minute daily MVPA recommendation?",
+  "options": {
+   "A": "Providing transportation",
+   "B": "Financial support during weekdays",
+   "C": "Emotional encouragement",
+   "D": "Providing sports equipment"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Chilean guidelines on parental support for physical activity, which specific paternal support behavior showed the strongest association with meeting the 60-minute daily MVPA recommendation?\nA. Providing transportation\nB. Financial support during weekdays\nC. Emotional encouragement\nD. Providing sports equipment\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42335711",
+  "title": "Minimum standards for co-design in public health research: Results from a double consensus process.",
+  "doi": "10.1016/j.puhe.2026.106362",
+  "question": "According to the 2026 Minimum Standards for Co-design in Public Health Research, what percentage of participants in the Delphi survey needed to score an item 6 or 7 on a seven-point Likert scale for it to be retained?",
+  "options": {
+   "A": "67%",
+   "B": "78%",
+   "C": "85%",
+   "D": "55%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Minimum Standards for Co-design in Public Health Research, what percentage of participants in the Delphi survey needed to score an item 6 or 7 on a seven-point Likert scale for it to be retained?\nA. 67%\nB. 78%\nC. 85%\nD. 55%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42237039",
+  "title": "Consensus meta-analysis of genome-wide association studies for Alzheimer's disease and related dementias.",
+  "doi": "10.1038/s41588-026-02583-1",
+  "question": "According to the 2026 consensus meta-analysis of genome-wide association studies for Alzheimer's disease and related dementias, what is the approximate relative risk increase for developing Braak neurofibrillary tangle stage >4 associated with being in the tenth decile of a polygenic score (excluding APOE) compared to the median score group?",
+  "options": {
+   "A": "1.5-fold",
+   "B": "2.0-fold",
+   "C": "3.0-fold",
+   "D": "4.0-fold"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 consensus meta-analysis of genome-wide association studies for Alzheimer's disease and related dementias, what is the approximate relative risk increase for developing Braak neurofibrillary tangle stage >4 associated with being in the tenth decile of a polygenic score (excluding APOE) compared to the median score group?\nA. 1.5-fold\nB. 2.0-fold\nC. 3.0-fold\nD. 4.0-fold\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42697525",
+  "title": "Governing artificial intelligence in cancer care: Perspectives and recommendations from patient organizations and the MULTIR consortium.",
+  "doi": "10.1016/j.jcpo.2026.100803",
+  "question": "According to the 2026 recommendations for governing artificial intelligence in cancer care, what is a key condition for trustworthy, sustainable, and equitable adoption?",
+  "options": {
+   "A": "Prioritizing AI development for rare cancers only.",
+   "B": "Ensuring the sustained and meaningful involvement of patient organizations throughout AI development, implementation, and evaluation.",
+   "C": "Mandating that all AI algorithms be open-source.",
+   "D": "Focusing solely on AI applications for diagnostic purposes."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 recommendations for governing artificial intelligence in cancer care, what is a key condition for trustworthy, sustainable, and equitable adoption?\nA. Prioritizing AI development for rare cancers only.\nB. Ensuring the sustained and meaningful involvement of patient organizations throughout AI development, implementation, and evaluation.\nC. Mandating that all AI algorithms be open-source.\nD. Focusing solely on AI applications for diagnostic purposes.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42651239",
+  "title": "The Tertiary Hospital Restructuring Project in South Korea: A Reflexive Thematic Analysis of Hospital Directors' Perspectives on Barriers and Policy Recommendations.",
+  "doi": "10.3390/healthcare14162469",
+  "question": "According to the 2026 South Korean Tertiary Hospital Restructuring Project guidelines, which of the following was NOT a specific recommendation made by hospital directors?",
+  "options": {
+   "A": "Refined severity criteria for patient selection.",
+   "B": "Complexity-based reimbursement models.",
+   "C": "A legal framework establishing the role of Physician Assistants (PAs).",
+   "D": "Increased funding for trainee doctor salaries."
+  },
+  "answer": "D",
+  "prompt": "According to the 2026 South Korean Tertiary Hospital Restructuring Project guidelines, which of the following was NOT a specific recommendation made by hospital directors?\nA. Refined severity criteria for patient selection.\nB. Complexity-based reimbursement models.\nC. A legal framework establishing the role of Physician Assistants (PAs).\nD. Increased funding for trainee doctor salaries.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42596004",
+  "title": "Guideline of the German Society of Neurology (DGN): \"diagnosis and therapy of HIV-1-associated neurological disorders\".",
+  "doi": "10.1186/s42466-026-00519-y",
+  "question": "According to the 2026 German Society of Neurology (DGN) guidelines for HIV-associated neurological disorders, what is the estimated incidence rate of Progressive Multifocal Leukoencephalopathy (PML) in HIV patients?",
+  "options": {
+   "A": "0.7 per 1,000 patient-years",
+   "B": "0.4 per 1,000 patient-years",
+   "C": "0.2 per 1,000 patient-years",
+   "D": "1.0 per 1,000 patient-years"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 German Society of Neurology (DGN) guidelines for HIV-associated neurological disorders, what is the estimated incidence rate of Progressive Multifocal Leukoencephalopathy (PML) in HIV patients?\nA. 0.7 per 1,000 patient-years\nB. 0.4 per 1,000 patient-years\nC. 0.2 per 1,000 patient-years\nD. 1.0 per 1,000 patient-years\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42747656",
+  "title": "Inter-Model Variability of ChatGPT, Gemini and Claude in Treatment Recommendations for Unruptured Intracranial Aneurysms.",
+  "doi": "10.1007/s10143-026-04498-1",
+  "question": "According to the 2026 guideline on Inter-Model Variability of ChatGPT, Gemini and Claude in Treatment Recommendations for Unruptured Intracranial Aneurysms, which large language model (LLM) demonstrated a significantly more conservative approach compared to the Unruptured Intracranial Aneurysm Treatment Score (UIATS)?",
+  "options": {
+   "A": "ChatGPT-5.4",
+   "B": "Claude Opus 4.6",
+   "C": "Gemini 3 Pro Thinking",
+   "D": "All three models showed similar conservative tendencies compared to UIATS."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 guideline on Inter-Model Variability of ChatGPT, Gemini and Claude in Treatment Recommendations for Unruptured Intracranial Aneurysms, which large language model (LLM) demonstrated a significantly more conservative approach compared to the Unruptured Intracranial Aneurysm Treatment Score (UIATS)?\nA. ChatGPT-5.4\nB. Claude Opus 4.6\nC. Gemini 3 Pro Thinking\nD. All three models showed similar conservative tendencies compared to UIATS.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42624393",
+  "title": "Standardized Assessment of Complete Colorectal Polyp Resection for Polyps Less Than Twenty Millimeters: A Delphi Consensus.",
+  "doi": "10.1016/j.cgh.2026.07.039",
+  "question": "According to the 2026 Delphi consensus guidelines on standardized assessment of complete colorectal polyp resection for polyps less than 20 mm, what is the recommended primary method for assessing resection completeness?",
+  "options": {
+   "A": "High-definition white-light inspection",
+   "B": "Image-enhanced inspection",
+   "C": "Histopathologic margin assessment",
+   "D": "Extended margin resection"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Delphi consensus guidelines on standardized assessment of complete colorectal polyp resection for polyps less than 20 mm, what is the recommended primary method for assessing resection completeness?\nA. High-definition white-light inspection\nB. Image-enhanced inspection\nC. Histopathologic margin assessment\nD. Extended margin resection\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1298222",
+  "title": "Consensus on delivery, divergence on content: physicians' artificial intelligence training needs in continuing medical education",
+  "doi": "10.21203/rs.3.rs-10475541/v1",
+  "question": "According to the 2026 consensus on physician AI training needs in continuing medical education, what percentage of surveyed German physicians had received AI-specific training?",
+  "options": {
+   "A": "17.1%",
+   "B": "53.0%",
+   "C": "11.4%",
+   "D": "36.2%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 consensus on physician AI training needs in continuing medical education, what percentage of surveyed German physicians had received AI-specific training?\nA. 17.1%\nB. 53.0%\nC. 11.4%\nD. 36.2%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42730819",
+  "title": "German Delphi consensus: COMT inhibitors in the management of wearing-off fluctuations in Parkinson's disease.",
+  "doi": "10.1007/s00702-026-03278-x",
+  "question": "According to the 2026 German Delphi consensus on COMT inhibitors for Parkinson's disease wearing-off fluctuations, what percentage of responding specialists agreed that COMT inhibitors should be used at an early stage when fluctuations in efficacy occur?",
+  "options": {
+   "A": "58%",
+   "B": "64%",
+   "C": "83%",
+   "D": "95%"
+  },
+  "answer": "D",
+  "prompt": "According to the 2026 German Delphi consensus on COMT inhibitors for Parkinson's disease wearing-off fluctuations, what percentage of responding specialists agreed that COMT inhibitors should be used at an early stage when fluctuations in efficacy occur?\nA. 58%\nB. 64%\nC. 83%\nD. 95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42512351",
+  "title": "The Waiting Game: How NGS and Guideline-Concordant-Care Timing Shape Survival in Advanced NSCLC.",
+  "doi": "10.3390/cancers18142287",
+  "question": "According to the 2026 guidelines on NGS and treatment timing in advanced non-squamous NSCLC, what is the hazard ratio (HR) associated with starting empiric discordant first-line therapy before NGS results are available, compared to initiating targeted concordant therapy after biomarker identification, specifically for patients undergoing blood-based NGS (B-NGS)?",
+  "options": {
+   "A": "1.58",
+   "B": "1.07",
+   "C": "1.35",
+   "D": "1.24"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on NGS and treatment timing in advanced non-squamous NSCLC, what is the hazard ratio (HR) associated with starting empiric discordant first-line therapy before NGS results are available, compared to initiating targeted concordant therapy after biomarker identification, specifically for patients undergoing blood-based NGS (B-NGS)?\nA. 1.58\nB. 1.07\nC. 1.35\nD. 1.24\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1256923",
+  "title": "Development of Consensus Guidelines for Classification of Emergent Neonatal Transports using a Delphi Process",
+  "doi": "10.21203/rs.3.rs-10019796/v1",
+  "question": "According to the 2026 Consensus Guidelines for Classification of Emergent Neonatal Transports developed by the Children’s Hospitals Neonatal Consortium (CHNC), what percentage of participating sites achieved >80% agreement on the proposed criteria in the first round of the Delphi process?",
+  "options": {
+   "A": "62%",
+   "B": "80%",
+   "C": "50%",
+   "D": "90%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Consensus Guidelines for Classification of Emergent Neonatal Transports developed by the Children’s Hospitals Neonatal Consortium (CHNC), what percentage of participating sites achieved >80% agreement on the proposed criteria in the first round of the Delphi process?\nA. 62%\nB. 80%\nC. 50%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42414950",
+  "title": "Current approaches to acute bronchiolitis management among pediatricians: guideline adherence and practice variation.",
+  "doi": "10.1186/s12887-026-07285-5",
+  "question": "According to the 2026 guidelines on acute bronchiolitis management, what percentage of pediatricians reported routine use of a bronchiolitis severity scoring system?",
+  "options": {
+   "A": "38.1%",
+   "B": "59.8%",
+   "C": "12.3%",
+   "D": "75.2%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on acute bronchiolitis management, what percentage of pediatricians reported routine use of a bronchiolitis severity scoring system?\nA. 38.1%\nB. 59.8%\nC. 12.3%\nD. 75.2%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42823987",
+  "title": "Consensus statement on the management of Achondroplasia in the Middle East.",
+  "doi": "10.3389/fendo.2026.1888346",
+  "question": "According to the 2026 Consensus statement on the management of Achondroplasia in the Middle East, what is the recommended number of consensus statements developed by the expert panel?",
+  "options": {
+   "A": "15",
+   "B": "25",
+   "C": "30",
+   "D": "50"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Consensus statement on the management of Achondroplasia in the Middle East, what is the recommended number of consensus statements developed by the expert panel?\nA. 15\nB. 25\nC. 30\nD. 50\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41649409",
+  "title": "The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria.",
+  "doi": "10.1111/all.70210",
+  "question": "According to the 2026 International Guideline for Urticaria, what is the estimated lifetime prevalence of acute urticaria?",
+  "options": {
+   "A": "Approximately 10%",
+   "B": "Approximately 20%",
+   "C": "Approximately 30%",
+   "D": "Approximately 40%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 International Guideline for Urticaria, what is the estimated lifetime prevalence of acute urticaria?\nA. Approximately 10%\nB. Approximately 20%\nC. Approximately 30%\nD. Approximately 40%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42585493",
+  "title": "VTH BRAZILIAN CONSENSUS CONFERENCE ON HELICOBACTER PYLORI INFECTION.",
+  "doi": "10.1590/s0004-2803.24612026-043",
+  "question": "According to the 2026 VTH Brazilian Consensus Conference on Helicobacter pylori Infection, what percentage of the global population is estimated to be affected by H. pylori infection?",
+  "options": {
+   "A": "Approximately 30%",
+   "B": "Approximately 40%",
+   "C": "Approximately 50%",
+   "D": "Approximately 60%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 VTH Brazilian Consensus Conference on Helicobacter pylori Infection, what percentage of the global population is estimated to be affected by H. pylori infection?\nA. Approximately 30%\nB. Approximately 40%\nC. Approximately 50%\nD. Approximately 60%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42723047",
+  "title": "Developing a strategy for identifying recommendations prioritized for implementation in the Colombian health system.",
+  "doi": "10.1186/s12961-026-01465-6",
+  "question": "According to the 2026 Colombian health system guideline analysis, what percentage of recommendations identified across all guidelines required changes in health system arrangements for implementation?",
+  "options": {
+   "A": "41.0%",
+   "B": "54.1%",
+   "C": "67.2%",
+   "D": "89.9%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Colombian health system guideline analysis, what percentage of recommendations identified across all guidelines required changes in health system arrangements for implementation?\nA. 41.0%\nB. 54.1%\nC. 67.2%\nD. 89.9%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1280946",
+  "title": "A consensus atlas of human brain development defines cell type-specific maturation trajectories across the lifespan",
+  "doi": "10.64898/2026.07.16.738788",
+  "question": "According to the 2026 consensus atlas of human brain development, approximately how many cells were included in the consolidated transcriptomic dataset?",
+  "options": {
+   "A": "2.2 million",
+   "B": "156 thousand",
+   "C": "9 million",
+   "D": "1.5 million"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 consensus atlas of human brain development, approximately how many cells were included in the consolidated transcriptomic dataset?\nA. 2.2 million\nB. 156 thousand\nC. 9 million\nD. 1.5 million\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42505602",
+  "title": "Antimicrobial Stewardship Program in a Low-Middle Income Country: Impact of an Antibiotic Guideline for Neonatal Early-Onset Sepsis.",
+  "doi": "10.3390/antibiotics15070639",
+  "question": "According to the 2026 Antimicrobial Stewardship Program guideline for Neonatal Early-Onset Sepsis in a Low-Middle Income Country, what was the percentage improvement in total adherence to best practices after guideline implementation?",
+  "options": {
+   "A": "63.6%",
+   "B": "65.6%",
+   "C": "2.0%",
+   "D": "67.6%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Antimicrobial Stewardship Program guideline for Neonatal Early-Onset Sepsis in a Low-Middle Income Country, what was the percentage improvement in total adherence to best practices after guideline implementation?\nA. 63.6%\nB. 65.6%\nC. 2.0%\nD. 67.6%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41705155",
+  "title": "Clinical practice guideline for female fertility preservation.",
+  "doi": "10.3389/fmed.2025.1730617",
+  "question": "According to the 2026 Clinical Practice Guideline for Female Fertility Preservation, what is the recommended approach for ovarian tissue cryopreservation when cancer treatment must start within two weeks?",
+  "options": {
+   "A": "Slow freezing is preferred due to higher oocyte survival rates.",
+   "B": "Vitrification is preferred due to lower risk of ice crystal formation.",
+   "C": "Slow freezing and vitrification are considered equivalent, with the choice based on institutional capacity.",
+   "D": "Ovarian tissue cryopreservation is contraindicated if treatment must start within two weeks."
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Clinical Practice Guideline for Female Fertility Preservation, what is the recommended approach for ovarian tissue cryopreservation when cancer treatment must start within two weeks?\nA. Slow freezing is preferred due to higher oocyte survival rates.\nB. Vitrification is preferred due to lower risk of ice crystal formation.\nC. Slow freezing and vitrification are considered equivalent, with the choice based on institutional capacity.\nD. Ovarian tissue cryopreservation is contraindicated if treatment must start within two weeks.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42760505",
+  "title": "Chinese Expert Consensus on the Testing Process, Quality Control and Clinical Application of Fractional Exhaled Nitric Oxide (2025).",
+  "doi": "10.1111/crj.70222",
+  "question": "According to the 2025 Chinese Expert Consensus on Fractional Exhaled Nitric Oxide (FeNO) testing, what is a primary reason cited for limitations in the widespread clinical application of FeNO?",
+  "options": {
+   "A": "Lack of internationally recognized FeNO instruments.",
+   "B": "Insufficient understanding of detection principles, quality control, and standardized procedures.",
+   "C": "FeNO's limited ability to identify type 2 airway inflammation.",
+   "D": "The high cost of FeNO testing equipment."
+  },
+  "answer": "B",
+  "prompt": "According to the 2025 Chinese Expert Consensus on Fractional Exhaled Nitric Oxide (FeNO) testing, what is a primary reason cited for limitations in the widespread clinical application of FeNO?\nA. Lack of internationally recognized FeNO instruments.\nB. Insufficient understanding of detection principles, quality control, and standardized procedures.\nC. FeNO's limited ability to identify type 2 airway inflammation.\nD. The high cost of FeNO testing equipment.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42327612",
+  "title": "Alignment of United States Emergency Medicine Programs' Pregnancy, Parental Leave, and Lactation Policies With Recent Consensus Recommendations.",
+  "doi": "10.1016/j.acepjo.2026.100428",
+  "question": "According to the 2026 consensus recommendations for Emergency Medicine parental policies, what percentage of residency programs reported providing compensated leave for nonbirthing parents in the postnatal period?",
+  "options": {
+   "A": "43%",
+   "B": "52%",
+   "C": "68%",
+   "D": "76%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 consensus recommendations for Emergency Medicine parental policies, what percentage of residency programs reported providing compensated leave for nonbirthing parents in the postnatal period?\nA. 43%\nB. 52%\nC. 68%\nD. 76%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42464799",
+  "title": "A Guideline-Concordant Chatbot Framework for Structured Colorectal Cancer Screening: Multistage Feasibility Study.",
+  "doi": "10.2196/93042",
+  "question": "According to the 2026 Guideline-Concordant Chatbot Framework for Structured Colorectal Cancer Screening study, what was the average score for GPT-4o on the DISCERN instrument for AI-generated content in phase 1?",
+  "options": {
+   "A": "12.02",
+   "B": "13.36",
+   "C": "3.96",
+   "D": "21.41"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Guideline-Concordant Chatbot Framework for Structured Colorectal Cancer Screening study, what was the average score for GPT-4o on the DISCERN instrument for AI-generated content in phase 1?\nA. 12.02\nB. 13.36\nC. 3.96\nD. 21.41\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42696728",
+  "title": "Evaluating a Guideline-Integrated Clinical Interaction Framework Vs a Standard Large Language Model Interaction for Dietary Recommendations in Recurrent Urolithiasis: In Silico Study.",
+  "doi": "10.2196/95162",
+  "question": "According to the 2026 study evaluating LLMs for dietary recommendations in recurrent urolithiasis, what was the safety pass rate for the guideline-integrated StoneAgent framework compared to the standard LLM configuration?",
+  "options": {
+   "A": "100% (30/30) for StoneAgent vs 90% (27/30) for the standard LLM",
+   "B": "95% (28.5/30) for StoneAgent vs 85% (25.5/30) for the standard LLM",
+   "C": "100% (30/30) for StoneAgent vs 93% (28/30) for the standard LLM",
+   "D": "90% (27/30) for StoneAgent vs 80% (24/30) for the standard LLM"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 study evaluating LLMs for dietary recommendations in recurrent urolithiasis, what was the safety pass rate for the guideline-integrated StoneAgent framework compared to the standard LLM configuration?\nA. 100% (30/30) for StoneAgent vs 90% (27/30) for the standard LLM\nB. 95% (28.5/30) for StoneAgent vs 85% (25.5/30) for the standard LLM\nC. 100% (30/30) for StoneAgent vs 93% (28/30) for the standard LLM\nD. 90% (27/30) for StoneAgent vs 80% (24/30) for the standard LLM\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42130488",
+  "title": "The role of nasal patency in obstructive sleep apnea: an expert consensus.",
+  "doi": "10.3389/frsle.2026.1819496",
+  "question": "According to the 2026 expert consensus on the role of nasal patency in obstructive sleep apnea, what is the recommended approach to managing nasal obstruction in OSA patients?",
+  "options": {
+   "A": "Nasal obstruction management should be considered an integral component of OSA management to improve CPAP adherence and outcomes.",
+   "B": "Minimally invasive therapies like TCRF remodeling are the primary treatment for nasal obstruction in OSA.",
+   "C": "Nasal obstruction is only a minor factor affecting CPAP success and adherence.",
+   "D": "Addressing nasal obstruction is recommended only for patients who cannot tolerate standard CPAP therapy."
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 expert consensus on the role of nasal patency in obstructive sleep apnea, what is the recommended approach to managing nasal obstruction in OSA patients?\nA. Nasal obstruction management should be considered an integral component of OSA management to improve CPAP adherence and outcomes.\nB. Minimally invasive therapies like TCRF remodeling are the primary treatment for nasal obstruction in OSA.\nC. Nasal obstruction is only a minor factor affecting CPAP success and adherence.\nD. Addressing nasal obstruction is recommended only for patients who cannot tolerate standard CPAP therapy.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1290299",
+  "title": "Towards a community driven framework for standardized open data in psychoneuroendocrinology: A Delphi consensus study",
+  "doi": "10.31234/osf.io/5bt6s_v2",
+  "question": "According to the 2026 Delphi consensus study on standardized open data in psychoneuroendocrinology, what percentage of agreement was required to achieve consensus on a statement?",
+  "options": {
+   "A": "60%",
+   "B": "70%",
+   "C": "80%",
+   "D": "90%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Delphi consensus study on standardized open data in psychoneuroendocrinology, what percentage of agreement was required to achieve consensus on a statement?\nA. 60%\nB. 70%\nC. 80%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1298481",
+  "title": "Strategic stakeholder engagement for injury care: building consensus in Ghana, Pakistan, Rwanda and South Africa",
+  "doi": "10.21203/rs.3.rs-10548838/v1",
+  "question": "According to the 2026 guideline 'Strategic stakeholder engagement for injury care: building consensus in Ghana, Pakistan, Rwanda and South Africa', what was the total number of participants involved in the consensus-building forums?",
+  "options": {
+   "A": "87",
+   "B": "6",
+   "C": "4",
+   "D": "81"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guideline 'Strategic stakeholder engagement for injury care: building consensus in Ghana, Pakistan, Rwanda and South Africa', what was the total number of participants involved in the consensus-building forums?\nA. 87\nB. 6\nC. 4\nD. 81\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1264569",
+  "title": "Consensus Recommendations for the Clinical Management of Wolfram syndrome Using a Delphi Method",
+  "doi": "10.64898/2026.07.02.26357130",
+  "question": "According to the 2026 Consensus Recommendations for the Clinical Management of Wolfram syndrome, what is the minimum percentage agreement required for a statement to be considered consensus?",
+  "options": {
+   "A": "70%",
+   "B": "75%",
+   "C": "80%",
+   "D": "90%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Consensus Recommendations for the Clinical Management of Wolfram syndrome, what is the minimum percentage agreement required for a statement to be considered consensus?\nA. 70%\nB. 75%\nC. 80%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42757292",
+  "title": "A comparative evaluation of generative AI chatbots for patient-oriented advice on painful diabetic peripheral neuropathy: safety, accuracy, guideline concordance, actionability, and readability.",
+  "doi": "10.3389/fpubh.2026.1942799",
+  "question": "According to the 2026 comparative evaluation of generative AI chatbots for painful diabetic peripheral neuropathy (PDPN), what percentage of the 300 analyzed responses were classified as unsafe or potentially unsafe?",
+  "options": {
+   "A": "5.0%",
+   "B": "9.3%",
+   "C": "15.0%",
+   "D": "28.0%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 comparative evaluation of generative AI chatbots for painful diabetic peripheral neuropathy (PDPN), what percentage of the 300 analyzed responses were classified as unsafe or potentially unsafe?\nA. 5.0%\nB. 9.3%\nC. 15.0%\nD. 28.0%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42848619",
+  "title": "SYSTEMATIC REVIEW AND BRAZILIAN EXPERT CONSENSUS ON THE USE OF BIOSIMILARS IN INFLAMMATORY BOWEL DISEASE: BRAZILIAN ORGANIZATION FOR CROHN'S AND COLITIS.",
+  "doi": "10.1590/s0004-2803.24612026-011",
+  "question": "According to the 2026 Brazilian Organization for Crohn's and Colitis guideline on biosimilars in Inflammatory Bowel Disease, what is the minimum consensus level required for a recommendation?",
+  "options": {
+   "A": "75 percent",
+   "B": "80 percent",
+   "C": "85 percent",
+   "D": "90 percent"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Brazilian Organization for Crohn's and Colitis guideline on biosimilars in Inflammatory Bowel Disease, what is the minimum consensus level required for a recommendation?\nA. 75 percent\nB. 80 percent\nC. 85 percent\nD. 90 percent\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42623243",
+  "title": "Safety-Oriented Evaluation of Large Language Models in Health Care: Guideline-Informed Systematic Review.",
+  "doi": "10.2196/97240",
+  "question": "According to the 2026 Safety-Oriented Evaluation of Large Language Models in Health Care guideline-informed systematic review, what percentage of included studies reported quantitative values related to privacy protection?",
+  "options": {
+   "A": "0.8%",
+   "B": "19.0%",
+   "C": "37.7%",
+   "D": "57.9%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Safety-Oriented Evaluation of Large Language Models in Health Care guideline-informed systematic review, what percentage of included studies reported quantitative values related to privacy protection?\nA. 0.8%\nB. 19.0%\nC. 37.7%\nD. 57.9%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42839771",
+  "title": "Sudden unexpected death in epilepsy: An Italian expert consensus statement on risk, mechanisms, prevention, and therapeutic strategies.",
+  "doi": "10.1002/epi4.70358",
+  "question": "According to the 2026 Italian expert consensus statement on Sudden Unexpected Death in Epilepsy (SUDEP), what percentage of agreement was required for a statement to reach consensus?",
+  "options": {
+   "A": "50%",
+   "B": "60%",
+   "C": "75%",
+   "D": "90%"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 Italian expert consensus statement on Sudden Unexpected Death in Epilepsy (SUDEP), what percentage of agreement was required for a statement to reach consensus?\nA. 50%\nB. 60%\nC. 75%\nD. 90%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42527785",
+  "title": "Reliability-Aware View-Adaptive Consensus for 3D Cephalometric Landmark Identification.",
+  "doi": "10.1007/s10278-026-02071-2",
+  "question": "According to the 2026 guidelines on Reliability-Aware View-Adaptive Consensus for 3D Cephalometric Landmark Identification, what was the lowest mean radial error achieved by the proposed method using 5-fold cross-validation?",
+  "options": {
+   "A": "1.26 mm",
+   "B": "1.33 mm",
+   "C": "1.20 mm",
+   "D": "2.00 mm"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 guidelines on Reliability-Aware View-Adaptive Consensus for 3D Cephalometric Landmark Identification, what was the lowest mean radial error achieved by the proposed method using 5-fold cross-validation?\nA. 1.26 mm\nB. 1.33 mm\nC. 1.20 mm\nD. 2.00 mm\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41906697",
+  "title": "Recommendations from the Clinical Toxicology Recommendations Collaborative on the administration of activated charcoal in acute oral overdose.",
+  "doi": "10.1080/15563650.2025.2609807",
+  "question": "According to the 2026 Clinical Toxicology Recommendations Collaborative guidelines on activated charcoal administration, for which of the following substances is activated charcoal specifically NOT recommended for poisoning management?",
+  "options": {
+   "A": "Paracetamol (acetaminophen)",
+   "B": "Lithium",
+   "C": "Warfarin",
+   "D": "Ibuprofen"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Clinical Toxicology Recommendations Collaborative guidelines on activated charcoal administration, for which of the following substances is activated charcoal specifically NOT recommended for poisoning management?\nA. Paracetamol (acetaminophen)\nB. Lithium\nC. Warfarin\nD. Ibuprofen\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42590636",
+  "title": "Event-Triggered Adaptive Consensus Control for Nonlinear Multi-Agent Systems with Prescribed Performance and Full-State Constraints.",
+  "doi": "10.3390/s26154860",
+  "question": "According to the 2026 guidelines on Event-Triggered Adaptive Consensus Control for Nonlinear Multi-Agent Systems, what mechanism is used to prevent state variables from exiting their admissible regions?",
+  "options": {
+   "A": "A first-order filter",
+   "B": "Gaussian radial basis function approximators",
+   "C": "Logarithmic barrier certificates",
+   "D": "A local dynamic triggering rule"
+  },
+  "answer": "C",
+  "prompt": "According to the 2026 guidelines on Event-Triggered Adaptive Consensus Control for Nonlinear Multi-Agent Systems, what mechanism is used to prevent state variables from exiting their admissible regions?\nA. A first-order filter\nB. Gaussian radial basis function approximators\nC. Logarithmic barrier certificates\nD. A local dynamic triggering rule\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42392224",
+  "title": "Consensus Guidelines for Therapeutic Drug Monitoring in Neuropsychopharmacology: Update 2026 - Pharmacokinetic, pharmacogenetic and clinical aspects.",
+  "doi": "10.1055/a-2860-7861",
+  "question": "According to the 2026 Consensus Guidelines for Therapeutic Drug Monitoring in Neuropsychopharmacology, for how many neuropsychiatric drugs is Therapeutic Drug Monitoring (TDM) strongly recommended for dose titration?",
+  "options": {
+   "A": "15",
+   "B": "30",
+   "C": "39",
+   "D": "88"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Consensus Guidelines for Therapeutic Drug Monitoring in Neuropsychopharmacology, for how many neuropsychiatric drugs is Therapeutic Drug Monitoring (TDM) strongly recommended for dose titration?\nA. 15\nB. 30\nC. 39\nD. 88\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42783858",
+  "title": "Cross-Domain Benchmarking of Focus Measures for Smear-Microscopy Autofocus Under a Consensus-Audited Reference.",
+  "doi": "10.3390/jimaging12090434",
+  "question": "According to the 2026 Cross-Domain Benchmarking of Focus Measures for Smear-Microscopy Autofocus guidelines, which focus measure consistently ranked first in the primary policy across clustered bootstrap replicates?",
+  "options": {
+   "A": "Variance of Gradient",
+   "B": "Brenner Gradient",
+   "C": "Spearman Correlation",
+   "D": "Ten-voter plurality consensus"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Cross-Domain Benchmarking of Focus Measures for Smear-Microscopy Autofocus guidelines, which focus measure consistently ranked first in the primary policy across clustered bootstrap replicates?\nA. Variance of Gradient\nB. Brenner Gradient\nC. Spearman Correlation\nD. Ten-voter plurality consensus\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42066583",
+  "title": "Visceral leishmaniasis &amp; HIV co-infection in Bangladesh: Investigating prevalence and policy recommendations.",
+  "doi": "10.1016/j.jiph.2026.103233",
+  "question": "According to the 2026 Bangladesh guideline abstract on Visceral Leishmaniasis & HIV co-infection, what percentage of VL patients screened in the study tested positive for HIV co-infection?",
+  "options": {
+   "A": "0%",
+   "B": "9.46%",
+   "C": "40.06%",
+   "D": "26.1%"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 Bangladesh guideline abstract on Visceral Leishmaniasis & HIV co-infection, what percentage of VL patients screened in the study tested positive for HIV co-infection?\nA. 0%\nB. 9.46%\nC. 40.06%\nD. 26.1%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42410537",
+  "title": "Guideline-informed vancomycin therapeutic drug monitoring indications in an adult intensive care unit: a retrospective descriptive study.",
+  "doi": "10.1186/s12871-026-04078-2",
+  "question": "According to the 2020 IDSA/ASHP/PIDS/SIDP consensus recommendations for vancomycin therapeutic drug monitoring (TDM) in adult ICUs, what percentage of patients in this study met the criterion for 'altered pharmacokinetics' as an indication for TDM?",
+  "options": {
+   "A": "54.4%",
+   "B": "68.6%",
+   "C": "83.4%",
+   "D": "7.6%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2020 IDSA/ASHP/PIDS/SIDP consensus recommendations for vancomycin therapeutic drug monitoring (TDM) in adult ICUs, what percentage of patients in this study met the criterion for 'altered pharmacokinetics' as an indication for TDM?\nA. 54.4%\nB. 68.6%\nC. 83.4%\nD. 7.6%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42406921",
+  "title": "Consensus definition for developmental regression during childhood.",
+  "doi": "10.1111/dmcn.70392",
+  "question": "According to the 2026 consensus definition for developmental regression during childhood, what is the minimum duration of skill loss required for a diagnosis?",
+  "options": {
+   "A": "At least 4 weeks",
+   "B": "At least 2 weeks",
+   "C": "At least 8 weeks",
+   "D": "At least 1 month"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 consensus definition for developmental regression during childhood, what is the minimum duration of skill loss required for a diagnosis?\nA. At least 4 weeks\nB. At least 2 weeks\nC. At least 8 weeks\nD. At least 1 month\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42808048",
+  "title": "Planning a Clinical Practice Guideline Revision for a Core Set of Outcome Measures in Adults Undergoing Neurologic Physical Therapy, Part 2: Determining Stakeholders' Uptake and Recommendations.",
+  "doi": "10.1002/gin2.70085",
+  "question": "According to the 2026 Clinical Practice Guideline revision planning survey regarding Core Set Outcome Measures for Adults with Neurologic Conditions Undergoing Rehabilitation, what percentage of respondents agreed that the CPG-recommended Core Set provided a comprehensive assessment of balance and gait?",
+  "options": {
+   "A": "63.5%",
+   "B": "70%",
+   "C": "76%",
+   "D": "99%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Clinical Practice Guideline revision planning survey regarding Core Set Outcome Measures for Adults with Neurologic Conditions Undergoing Rehabilitation, what percentage of respondents agreed that the CPG-recommended Core Set provided a comprehensive assessment of balance and gait?\nA. 63.5%\nB. 70%\nC. 76%\nD. 99%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42889776",
+  "title": "Prevention and Management of Pediatric Sensitive Skin Conditions in India: A Modified Delphi Consensus.",
+  "doi": "10.7759/cureus.116261",
+  "question": "According to the 2026 Indian consensus guidelines on Pediatric Sensitive Skin Conditions, what is the recommended primary diagnostic approach for identifying sensitive skin in children?",
+  "options": {
+   "A": "Blood tests for allergen exposure",
+   "B": "Physical examinations and assessment of clinical/medical histories",
+   "C": "Skin biopsy to determine pathophysiology",
+   "D": "Genetic testing for predisposition"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Indian consensus guidelines on Pediatric Sensitive Skin Conditions, what is the recommended primary diagnostic approach for identifying sensitive skin in children?\nA. Blood tests for allergen exposure\nB. Physical examinations and assessment of clinical/medical histories\nC. Skin biopsy to determine pathophysiology\nD. Genetic testing for predisposition\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "PPR1281536",
+  "title": "Physical Activity Monitor Outputs Are Not Compatible With Current Recommendations in Wheelchair Users With Paraplegia",
+  "doi": "10.21203/rs.3.rs-9707223/v1",
+  "question": "According to the 2026 Physical Activity Monitor Outputs guideline for wheelchair users with paraplegia, what is the estimated weekly volume of moderate-to-vigorous intensity activity needed to achieve a PAL of 1.75, accounting for normal lifestyle activities?",
+  "options": {
+   "A": "90 minutes per week",
+   "B": "150 minutes per week",
+   "C": "177 minutes per week",
+   "D": "519 minutes per week"
+  },
+  "answer": "D",
+  "prompt": "According to the 2026 Physical Activity Monitor Outputs guideline for wheelchair users with paraplegia, what is the estimated weekly volume of moderate-to-vigorous intensity activity needed to achieve a PAL of 1.75, accounting for normal lifestyle activities?\nA. 90 minutes per week\nB. 150 minutes per week\nC. 177 minutes per week\nD. 519 minutes per week\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "41834272",
+  "title": "European Standard Clinical Practice Guideline and EXPeRT Recommendations for the Diagnosis and Management of Gastroenteropancreatic Neuroendocrine Neoplasms in Children and Adolescents.",
+  "doi": "10.1002/1545-5017.70194",
+  "question": "According to the 2026 European Standard Clinical Practice Guideline for Pediatric GEP-NENs, what is the primary treatment modality recommended for localized disease?",
+  "options": {
+   "A": "Systemic therapy with somatostatin analogues",
+   "B": "Surgical resection",
+   "C": "Radiopharmaceutical therapy",
+   "D": "Lifelong follow-up"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 European Standard Clinical Practice Guideline for Pediatric GEP-NENs, what is the primary treatment modality recommended for localized disease?\nA. Systemic therapy with somatostatin analogues\nB. Surgical resection\nC. Radiopharmaceutical therapy\nD. Lifelong follow-up\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42074888",
+  "title": "Multidisciplinary Delphi Consensus on the Clinical Use of Intranasal Carboxymethyl-β-Glucan-Resveratrol: Evidence-Based Recommendations for Upper Airway Diseases.",
+  "doi": "10.3390/jcm15083087",
+  "question": "According to the 2026 Multidisciplinary Delphi Consensus on the Clinical Use of Intranasal Carboxymethyl-β-Glucan-Resveratrol, what percentage of agreement was required to achieve consensus on a statement?",
+  "options": {
+   "A": "≥75%",
+   "B": "≥80%",
+   "C": "≥90%",
+   "D": "≥95%"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 Multidisciplinary Delphi Consensus on the Clinical Use of Intranasal Carboxymethyl-β-Glucan-Resveratrol, what percentage of agreement was required to achieve consensus on a statement?\nA. ≥75%\nB. ≥80%\nC. ≥90%\nD. ≥95%\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42549387",
+  "title": "Improvement of invasive microvascular indices following guideline-directed treatment of structural coronary microvascular dysfunction: a case report.",
+  "doi": "10.1093/ehjcr/ytag533",
+  "question": "According to the 2026 European guidelines for structural coronary microvascular dysfunction (CMD), what is the recommended approach to treatment?",
+  "options": {
+   "A": "Immediate coronary artery bypass grafting.",
+   "B": "A structured, stepwise pharmacological approach.",
+   "C": "Angioplasty and stenting of the microvasculature.",
+   "D": "Lifestyle modifications only."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 European guidelines for structural coronary microvascular dysfunction (CMD), what is the recommended approach to treatment?\nA. Immediate coronary artery bypass grafting.\nB. A structured, stepwise pharmacological approach.\nC. Angioplasty and stenting of the microvasculature.\nD. Lifestyle modifications only.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42564016",
+  "title": "\"No one takes it seriously\": U.S. military personnel with gambling concerns: recommendations for expanding treatment and public health efforts.",
+  "doi": "10.3389/fpubh.2026.1745979",
+  "question": "According to the 2026 recommendations for addressing gambling disorder in U.S. military personnel, which of the following is identified as a key need to improve help-seeking and disclosure?",
+  "options": {
+   "A": "Implementing mandatory financial literacy training for all service members.",
+   "B": "Establishing a confidential 'Open door policy' for disclosing gambling concerns.",
+   "C": "Increasing the number of on-base gambling facilities to monitor activity.",
+   "D": "Reducing screening for gambling disorder to avoid stigmatization."
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 recommendations for addressing gambling disorder in U.S. military personnel, which of the following is identified as a key need to improve help-seeking and disclosure?\nA. Implementing mandatory financial literacy training for all service members.\nB. Establishing a confidential 'Open door policy' for disclosing gambling concerns.\nC. Increasing the number of on-base gambling facilities to monitor activity.\nD. Reducing screening for gambling disorder to avoid stigmatization.\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42715409",
+  "title": "Recommendations From a Health Care Provider's Perspective for Better Implementation of Telemedicine and Telenursing: Descriptive Qualitative Approach.",
+  "doi": "10.2196/90610",
+  "question": "According to the 2026 recommendations derived from stakeholder experiences regarding telemedicine and telenursing implementation, what key factors must be anticipated for smooth operation?",
+  "options": {
+   "A": "The 5M factors: method, man, money, material, and machine",
+   "B": "Focusing solely on technological advancements",
+   "C": "Patient preference for in-person visits",
+   "D": "Reducing the number of healthcare providers involved"
+  },
+  "answer": "A",
+  "prompt": "According to the 2026 recommendations derived from stakeholder experiences regarding telemedicine and telenursing implementation, what key factors must be anticipated for smooth operation?\nA. The 5M factors: method, man, money, material, and machine\nB. Focusing solely on technological advancements\nC. Patient preference for in-person visits\nD. Reducing the number of healthcare providers involved\nAnswer only with the letter of the correct answer."
+ },
+ {
+  "doc_id": "42623356",
+  "title": "The CDC's management and COVID-19 vaccine recommendations during the COVID-19 pandemic: A healthcare worker's perspective.",
+  "doi": "10.1371/journal.pone.0354686",
+  "question": "According to the 2026 CDC guidelines on COVID-19 pandemic management and vaccine recommendations, which of the following was identified as a key criticism regarding vaccine recommendations by healthcare workers?",
+  "options": {
+   "A": "Lack of timely vaccine distribution",
+   "B": "Inconsistent messaging and perceived lack of scientific basis",
+   "C": "Insufficient affordability of vaccines",
+   "D": "Overregulation of face mask requirements"
+  },
+  "answer": "B",
+  "prompt": "According to the 2026 CDC guidelines on COVID-19 pandemic management and vaccine recommendations, which of the following was identified as a key criticism regarding vaccine recommendations by healthcare workers?\nA. Lack of timely vaccine distribution\nB. Inconsistent messaging and perceived lack of scientific basis\nC. Insufficient affordability of vaccines\nD. Overregulation of face mask requirements\nAnswer only with the letter of the correct answer."
+ }
+]
