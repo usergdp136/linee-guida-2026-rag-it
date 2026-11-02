@@ -7,4 +7,4 @@ Indice: BM25 lessicale su chunk di 700 caratteri con passo 600 (`chunks.jsonl`, 
 Modifiche rispetto agli originali: rimozione dei tag HTML e suddivisione in chunk. Nessun avallo da parte degli autori.
 
 ## Articolo
-Preprint: DOI [10.5281/zenodo.23664675](https://doi.org/10.5281/zenodo.23664675). Codice: https://huggingface.co/odelpa/linee-guida-2026-rag-it
+Preprint: DOI [10.5281/zenodo.23665015](https://doi.org/10.5281/zenodo.23665015). Codice: https://huggingface.co/odelpa/linee-guida-2026-rag-it

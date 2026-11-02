@@ -60,6 +60,6 @@ Questo è uno strumento **solo di ricerca e informazione**. **Non è un disposit
 
 ## Link
 
-- Articolo (preprint su Zenodo): <https://doi.org/10.5281/zenodo.23664675> (DOI 10.5281/zenodo.23664675)
+- Articolo (preprint su Zenodo): <https://doi.org/10.5281/zenodo.23665015> (DOI 10.5281/zenodo.23665015)
 - Codice, domande e risultati: <https://huggingface.co/odelpa/linee-guida-2026-rag-it>
 - Indice dei documenti: <https://huggingface.co/datasets/odelpa/linee-guida-2026-rag-it-index>
